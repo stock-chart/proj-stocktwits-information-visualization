@@ -1,0 +1,3885 @@
+{
+   "name":"treemap",
+   "children":[
+      {
+         "name":"Services",
+         "children":[
+            {
+               "title":"Nordstrom Inc.",
+               "count":1,
+               "sentiment":79
+            },
+            {
+               "title":"Finish Line Inc.",
+               "count":1,
+               "sentiment":64
+            },
+            {
+               "title":"DryShips, Inc.",
+               "count":9,
+               "sentiment":77
+            },
+            {
+               "title":"Paychex Inc.",
+               "count":2,
+               "sentiment":39
+            },
+            {
+               "title":"Wynn Resorts Ltd.",
+               "count":11,
+               "sentiment":49
+            },
+            {
+               "title":"AnnTaylor Stores Corp.",
+               "count":5,
+               "sentiment":61
+            },
+            {
+               "title":"The Kroger Co.",
+               "count":1,
+               "sentiment":81
+            },
+            {
+               "title":"Rite Aid Corp.",
+               "count":1,
+               "sentiment":49
+            },
+            {
+               "title":"The New York Times Company",
+               "count":6,
+               "sentiment":56
+            },
+            {
+               "title":"Amazon.com Inc.",
+               "count":70,
+               "sentiment":82
+            },
+            {
+               "title":"CBS Corporation",
+               "count":1,
+               "sentiment":40
+            },
+            {
+               "title":"Dominos Pizza, Inc.",
+               "count":1,
+               "sentiment":83
+            },
+            {
+               "title":"Delta Air Lines Inc.",
+               "count":9,
+               "sentiment":72
+            },
+            {
+               "title":"hhgregg, Inc.",
+               "count":2,
+               "sentiment":70
+            },
+            {
+               "title":"Brinker International Inc.",
+               "count":1,
+               "sentiment":37
+            },
+            {
+               "title":"McGraw Hill Financial, Inc.",
+               "count":1,
+               "sentiment":89
+            },
+            {
+               "title":"Medifast Inc.",
+               "count":6,
+               "sentiment":63
+            },
+            {
+               "title":"News Corp.",
+               "count":1,
+               "sentiment":68
+            },
+            {
+               "title":"IMAX Corporation",
+               "count":29,
+               "sentiment":92
+            },
+            {
+               "title":"Magal Security Systems Ltd.",
+               "count":1,
+               "sentiment":43
+            },
+            {
+               "title":"Avis Budget Group, Inc.",
+               "count":2,
+               "sentiment":33
+            },
+            {
+               "title":"Dollar Thrifty Automotive Group Inc.",
+               "count":3,
+               "sentiment":94
+            },
+            {
+               "title":"Starwood Hotels & Resorts Worldwide Inc.",
+               "count":3,
+               "sentiment":76
+            },
+            {
+               "title":"Hertz Global Holdings, Inc.",
+               "count":2,
+               "sentiment":86
+            },
+            {
+               "title":"Las Vegas Sands Corp.",
+               "count":11,
+               "sentiment":63
+            },
+            {
+               "title":"MGM Resorts International",
+               "count":11,
+               "sentiment":51
+            },
+            {
+               "title":"Home Inns & Hotels Management Inc.",
+               "count":11,
+               "sentiment":41
+            },
+            {
+               "title":"The Talbots Inc.",
+               "count":4,
+               "sentiment":72
+            },
+            {
+               "title":"Corinthian Colleges Inc.",
+               "count":2,
+               "sentiment":93
+            },
+            {
+               "title":"Netflix, Inc.",
+               "count":39,
+               "sentiment":57
+            },
+            {
+               "title":"Starbucks Corporation",
+               "count":5,
+               "sentiment":36
+            },
+            {
+               "title":"Eagle Bulk Shipping, Inc.",
+               "count":4,
+               "sentiment":65
+            },
+            {
+               "title":"Paragon Shipping Inc.",
+               "count":2,
+               "sentiment":84
+            },
+            {
+               "title":"Star Bulk Carriers Corp.",
+               "count":5,
+               "sentiment":92
+            },
+            {
+               "title":"Diana Shipping Inc.",
+               "count":4,
+               "sentiment":74
+            },
+            {
+               "title":"Frontline Ltd.",
+               "count":5,
+               "sentiment":84
+            },
+            {
+               "title":"Navios Maritime Holdings Inc.",
+               "count":4,
+               "sentiment":82
+            },
+            {
+               "title":"Overseas Shipholding Group Inc.",
+               "count":3,
+               "sentiment":67
+            },
+            {
+               "title":"Teekay Corporation",
+               "count":2,
+               "sentiment":47
+            },
+            {
+               "title":"Tiffany & Co.",
+               "count":2,
+               "sentiment":58
+            },
+            {
+               "title":"Seaspan Corp.",
+               "count":2,
+               "sentiment":66
+            },
+            {
+               "title":"Time Warner Inc.",
+               "count":1,
+               "sentiment":34
+            },
+            {
+               "title":"Walt Disney Co.",
+               "count":1,
+               "sentiment":35
+            },
+            {
+               "title":"ValueVision Media Inc.",
+               "count":1,
+               "sentiment":77
+            },
+            {
+               "title":"Target Corp.",
+               "count":1,
+               "sentiment":80
+            },
+            {
+               "title":"The Home Depot, Inc.",
+               "count":1,
+               "sentiment":60
+            },
+            {
+               "title":"NutriSystem Inc.",
+               "count":14,
+               "sentiment":39
+            },
+            {
+               "title":"TiVo Inc.",
+               "count":1,
+               "sentiment":67
+            },
+            {
+               "title":"H&R Block, Inc.",
+               "count":1,
+               "sentiment":58
+            },
+            {
+               "title":"Yum! Brands, Inc.",
+               "count":3,
+               "sentiment":86
+            },
+            {
+               "title":"Genco Shipping & Trading Ltd.",
+               "count":7,
+               "sentiment":42
+            },
+            {
+               "title":"SBA Communications Corp.",
+               "count":2,
+               "sentiment":67
+            },
+            {
+               "title":"YRC Worldwide Inc.",
+               "count":4,
+               "sentiment":43
+            },
+            {
+               "title":"Gap Inc.",
+               "count":1,
+               "sentiment":70
+            },
+            {
+               "title":"DG FastChannel, Inc.",
+               "count":1,
+               "sentiment":56
+            },
+            {
+               "title":"Best Buy Co. Inc.",
+               "count":7,
+               "sentiment":34
+            },
+            {
+               "title":"Darden Restaurants, Inc.",
+               "count":1,
+               "sentiment":81
+            },
+            {
+               "title":"Hawaiian Holdings Inc.",
+               "count":4,
+               "sentiment":79
+            },
+            {
+               "title":"JetBlue Airways Corporation",
+               "count":3,
+               "sentiment":71
+            },
+            {
+               "title":"Republic Airways Holdings Inc.",
+               "count":2,
+               "sentiment":62
+            },
+            {
+               "title":"Alaska Air Group, Inc.",
+               "count":3,
+               "sentiment":90
+            },
+            {
+               "title":"Continental Airlines, Inc.",
+               "count":4,
+               "sentiment":84
+            },
+            {
+               "title":"Southwest Airlines Co.",
+               "count":4,
+               "sentiment":79
+            },
+            {
+               "title":"Danaos Corporation",
+               "count":2,
+               "sentiment":45
+            },
+            {
+               "title":"Visa, Inc.",
+               "count":5,
+               "sentiment":57
+            },
+            {
+               "title":"Melco Crown Entertainment Ltd.",
+               "count":1,
+               "sentiment":82
+            },
+            {
+               "title":"China Security & Surveillance Technology, Inc.",
+               "count":2,
+               "sentiment":42
+            },
+            {
+               "title":"American Science & Engineering Inc.",
+               "count":2,
+               "sentiment":32
+            },
+            {
+               "title":"FreeSeas Inc.",
+               "count":2,
+               "sentiment":86
+            },
+            {
+               "title":"Excel Maritime Carriers, Ltd.",
+               "count":2,
+               "sentiment":57
+            },
+            {
+               "title":"Whole Foods Market, Inc.",
+               "count":1,
+               "sentiment":59
+            },
+            {
+               "title":"AutoZone Inc.",
+               "count":3,
+               "sentiment":31
+            },
+            {
+               "title":"Comcast Corporation",
+               "count":1,
+               "sentiment":90
+            },
+            {
+               "title":"Time Warner Cable Inc.",
+               "count":1,
+               "sentiment":32
+            },
+            {
+               "title":"eBay Inc.",
+               "count":1,
+               "sentiment":84
+            },
+            {
+               "title":"Winn-Dixie Stores Inc.",
+               "count":1,
+               "sentiment":78
+            },
+            {
+               "title":"Family Dollar Stores Inc.",
+               "count":1,
+               "sentiment":88
+            },
+            {
+               "title":"Bed Bath & Beyond, Inc.",
+               "count":5,
+               "sentiment":89
+            },
+            {
+               "title":"SYNNEX Corp.",
+               "count":2,
+               "sentiment":78
+            },
+            {
+               "title":"Boyd Gaming Corp.",
+               "count":1,
+               "sentiment":85
+            },
+            {
+               "title":"TBS International Plc",
+               "count":1,
+               "sentiment":50
+            },
+            {
+               "title":"Pacific Sunwear of California Inc.",
+               "count":1,
+               "sentiment":47
+            },
+            {
+               "title":"Navios Maritime Partners L.P.",
+               "count":1,
+               "sentiment":68
+            },
+            {
+               "title":"Coinstar Inc.",
+               "count":5,
+               "sentiment":47
+            },
+            {
+               "title":"URS Corporation",
+               "count":2,
+               "sentiment":86
+            },
+            {
+               "title":"Apollo Group Inc.",
+               "count":10,
+               "sentiment":39
+            },
+            {
+               "title":"Ingram Micro Inc.",
+               "count":1,
+               "sentiment":39
+            },
+            {
+               "title":"Kirklands Inc.",
+               "count":1,
+               "sentiment":87
+            },
+            {
+               "title":"Capella Education Co.",
+               "count":2,
+               "sentiment":37
+            },
+            {
+               "title":"MasterCard Incorporated",
+               "count":3,
+               "sentiment":46
+            },
+            {
+               "title":"Focus Media Holding Ltd.",
+               "count":5,
+               "sentiment":38
+            },
+            {
+               "title":"Panera Bread Co.",
+               "count":1,
+               "sentiment":44
+            },
+            {
+               "title":"The Jones Group Inc.",
+               "count":1,
+               "sentiment":30
+            },
+            {
+               "title":"DHT Holdings, Inc.",
+               "count":1,
+               "sentiment":84
+            },
+            {
+               "title":"Nordic American Tanker Shipping Ltd.",
+               "count":2,
+               "sentiment":54
+            },
+            {
+               "title":"Global Payments Inc.",
+               "count":2,
+               "sentiment":45
+            },
+            {
+               "title":"Aeropostale, Inc.",
+               "count":1,
+               "sentiment":35
+            },
+            {
+               "title":"Corrections Corporation of America",
+               "count":1,
+               "sentiment":52
+            },
+            {
+               "title":"China Nepstar Chain Drugstore Ltd.",
+               "count":1,
+               "sentiment":94
+            },
+            {
+               "title":"J. C. Penney Company, Inc.",
+               "count":5,
+               "sentiment":80
+            },
+            {
+               "title":"Abercrombie & Fitch Co.",
+               "count":3,
+               "sentiment":67
+            },
+            {
+               "title":"TAL International Group, Inc.",
+               "count":1,
+               "sentiment":46
+            },
+            {
+               "title":"Stage Stores Inc.",
+               "count":1,
+               "sentiment":58
+            },
+            {
+               "title":"Lithia Motors Inc.",
+               "count":1,
+               "sentiment":85
+            },
+            {
+               "title":"The Childrens Place Retail Stores, Inc.",
+               "count":6,
+               "sentiment":70
+            },
+            {
+               "title":"Sears Holdings Corporation",
+               "count":9,
+               "sentiment":78
+            },
+            {
+               "title":"GameStop Corp.",
+               "count":3,
+               "sentiment":53
+            },
+            {
+               "title":"EnerNOC, Inc.",
+               "count":2,
+               "sentiment":37
+            },
+            {
+               "title":"Tetra Tech Inc.",
+               "count":1,
+               "sentiment":62
+            },
+            {
+               "title":"Buckle Inc.",
+               "count":1,
+               "sentiment":39
+            },
+            {
+               "title":"TORM A/S",
+               "count":1,
+               "sentiment":44
+            },
+            {
+               "title":"General Maritime Corp.",
+               "count":1,
+               "sentiment":95
+            },
+            {
+               "title":"Omnicare Inc.",
+               "count":3,
+               "sentiment":90
+            },
+            {
+               "title":"Barnes & Noble, Inc.",
+               "count":1,
+               "sentiment":75
+            },
+            {
+               "title":"Ulta Salon, Cosmetics & Fragrance, Inc.",
+               "count":1,
+               "sentiment":80
+            },
+            {
+               "title":"Martha Stewart Living Omnimedia Inc.",
+               "count":1,
+               "sentiment":71
+            },
+            {
+               "title":"Portec Rail Products Inc.",
+               "count":1,
+               "sentiment":82
+            },
+            {
+               "title":"United Parcel Service, Inc.",
+               "count":1,
+               "sentiment":54
+            },
+            {
+               "title":"Chipotle Mexican Grill, Inc.",
+               "count":2,
+               "sentiment":83
+            },
+            {
+               "title":"Ship Finance International Limited",
+               "count":4,
+               "sentiment":46
+            },
+            {
+               "title":"JB Hunt Transport Services Inc.",
+               "count":2,
+               "sentiment":32
+            },
+            {
+               "title":"CSX Corp.",
+               "count":1,
+               "sentiment":53
+            },
+            {
+               "title":"FLY Leasing Limited",
+               "count":1,
+               "sentiment":79
+            },
+            {
+               "title":"OceanFreight, Inc.",
+               "count":1,
+               "sentiment":34
+            },
+            {
+               "title":"Krispy Kreme Doughnuts, Inc.",
+               "count":1,
+               "sentiment":77
+            },
+            {
+               "title":"FTI Consulting, Inc.",
+               "count":1,
+               "sentiment":52
+            },
+            {
+               "title":"Macys, Inc.",
+               "count":1,
+               "sentiment":33
+            },
+            {
+               "title":"GOL Linhas A",
+               "count":1,
+               "sentiment":88
+            },
+            {
+               "title":"AMCON Distributing Co.",
+               "count":2,
+               "sentiment":39
+            },
+            {
+               "title":"China Auto Logistic Inc.",
+               "count":1,
+               "sentiment":73
+            }
+         ]
+      },
+      {
+         "name":"Financial",
+         "children":[
+            {
+               "title":"iShares FTSE China 25 Index Fund",
+               "count":5,
+               "sentiment":93
+            },
+            {
+               "title":"SPDR Gold Shares",
+               "count":33,
+               "sentiment":78
+            },
+            {
+               "title":"iShares Russell 2000 Index",
+               "count":7,
+               "sentiment":36
+            },
+            {
+               "title":"iShares Dow Jones US Real Estate",
+               "count":11,
+               "sentiment":91
+            },
+            {
+               "title":"SPDR S&P 500",
+               "count":50,
+               "sentiment":39
+            },
+            {
+               "title":"Financial Select Sector SPDR",
+               "count":19,
+               "sentiment":33
+            },
+            {
+               "title":"The Goldman Sachs Group, Inc.",
+               "count":47,
+               "sentiment":34
+            },
+            {
+               "title":"iShares MSCI Japan Index",
+               "count":2,
+               "sentiment":35
+            },
+            {
+               "title":"Market Vectors Brazil Small-Cap ETF",
+               "count":3,
+               "sentiment":30
+            },
+            {
+               "title":"iShares MSCI Emerging Markets Index",
+               "count":6,
+               "sentiment":66
+            },
+            {
+               "title":"iShares MSCI Brazil Index",
+               "count":7,
+               "sentiment":95
+            },
+            {
+               "title":"India Fund, Inc.",
+               "count":1,
+               "sentiment":84
+            },
+            {
+               "title":"Templeton Dragon Fund Inc.",
+               "count":1,
+               "sentiment":59
+            },
+            {
+               "title":"Templeton Russia and East European Fund Inc.",
+               "count":1,
+               "sentiment":94
+            },
+            {
+               "title":"Northern Trust Corporation",
+               "count":1,
+               "sentiment":63
+            },
+            {
+               "title":"Invesco Ltd.",
+               "count":1,
+               "sentiment":58
+            },
+            {
+               "title":"Discover Financial Services",
+               "count":1,
+               "sentiment":53
+            },
+            {
+               "title":"ProShares UltraShort QQQ",
+               "count":2,
+               "sentiment":71
+            },
+            {
+               "title":"Northwest Bancshares, Inc.",
+               "count":1,
+               "sentiment":71
+            },
+            {
+               "title":"American International Group, Inc.",
+               "count":10,
+               "sentiment":70
+            },
+            {
+               "title":"Avalonbay Communities Inc.",
+               "count":1,
+               "sentiment":95
+            },
+            {
+               "title":"Brookfield Properties Corporation",
+               "count":2,
+               "sentiment":72
+            },
+            {
+               "title":"Boston Properties Inc.",
+               "count":1,
+               "sentiment":78
+            },
+            {
+               "title":"Equity Residential",
+               "count":1,
+               "sentiment":79
+            },
+            {
+               "title":"Health Care REIT Inc.",
+               "count":1,
+               "sentiment":43
+            },
+            {
+               "title":"HCP, Inc.",
+               "count":1,
+               "sentiment":83
+            },
+            {
+               "title":"Annaly Capital Management, Inc.",
+               "count":1,
+               "sentiment":55
+            },
+            {
+               "title":"ProLogis",
+               "count":1,
+               "sentiment":65
+            },
+            {
+               "title":"Public Storage",
+               "count":1,
+               "sentiment":63
+            },
+            {
+               "title":"Simon Property Group Inc.",
+               "count":8,
+               "sentiment":89
+            },
+            {
+               "title":"Vornado Realty Trust",
+               "count":1,
+               "sentiment":77
+            },
+            {
+               "title":"American Express Company",
+               "count":4,
+               "sentiment":47
+            },
+            {
+               "title":"SPDR Dow Jones Industrial Average",
+               "count":2,
+               "sentiment":67
+            },
+            {
+               "title":"Hancock Holding Co.",
+               "count":1,
+               "sentiment":62
+            },
+            {
+               "title":"Hudson City Bancorp, Inc.",
+               "count":1,
+               "sentiment":76
+            },
+            {
+               "title":"MB Financial Inc.",
+               "count":1,
+               "sentiment":47
+            },
+            {
+               "title":"Bank of America Corporation",
+               "count":19,
+               "sentiment":58
+            },
+            {
+               "title":"Citigroup, Inc.",
+               "count":22,
+               "sentiment":77
+            },
+            {
+               "title":"JPMorgan Chase & Co.",
+               "count":11,
+               "sentiment":81
+            },
+            {
+               "title":"Webster Financial Corp.",
+               "count":1,
+               "sentiment":54
+            },
+            {
+               "title":"Wells Fargo & Company",
+               "count":12,
+               "sentiment":82
+            },
+            {
+               "title":"Barclays PLC",
+               "count":2,
+               "sentiment":91
+            },
+            {
+               "title":"HSBC Holdings plc",
+               "count":1,
+               "sentiment":65
+            },
+            {
+               "title":"Royal Bank of Scotland Group plc",
+               "count":1,
+               "sentiment":93
+            },
+            {
+               "title":"United States Natural Gas",
+               "count":21,
+               "sentiment":75
+            },
+            {
+               "title":"Charles Schwab Corp.",
+               "count":2,
+               "sentiment":80
+            },
+            {
+               "title":"Morgan Stanley",
+               "count":7,
+               "sentiment":52
+            },
+            {
+               "title":"ProShares Ultra Semiconductors",
+               "count":5,
+               "sentiment":74
+            },
+            {
+               "title":"KKR Financial Holdings LLC",
+               "count":3,
+               "sentiment":32
+            },
+            {
+               "title":"First Midwest Bancorp Inc.",
+               "count":1,
+               "sentiment":69
+            },
+            {
+               "title":"Credit Suisse Group",
+               "count":3,
+               "sentiment":87
+            },
+            {
+               "title":"UBS AG",
+               "count":3,
+               "sentiment":70
+            },
+            {
+               "title":"Encore Capital Group, Inc.",
+               "count":1,
+               "sentiment":78
+            },
+            {
+               "title":"E-House (China) Holdings Limited",
+               "count":14,
+               "sentiment":88
+            },
+            {
+               "title":"Radian Group Inc.",
+               "count":2,
+               "sentiment":41
+            },
+            {
+               "title":"The Governor and Company of The Bank of Ireland",
+               "count":3,
+               "sentiment":50
+            },
+            {
+               "title":"iShares MSCI South Korea Index",
+               "count":1,
+               "sentiment":82
+            },
+            {
+               "title":"Market Vectors Gold Miners ETF",
+               "count":8,
+               "sentiment":38
+            },
+            {
+               "title":"Materials Select Sector SPDR",
+               "count":4,
+               "sentiment":75
+            },
+            {
+               "title":"SPDR S&P Metals & Mining",
+               "count":2,
+               "sentiment":53
+            },
+            {
+               "title":"Western Alliance Bancorporation",
+               "count":1,
+               "sentiment":82
+            },
+            {
+               "title":"iShares Dow Jones Transportation Average",
+               "count":3,
+               "sentiment":62
+            },
+            {
+               "title":"ProShares Ultra S&P500",
+               "count":1,
+               "sentiment":84
+            },
+            {
+               "title":"PMI Group Inc.",
+               "count":4,
+               "sentiment":38
+            },
+            {
+               "title":"Direxion Daily Financial Bull 3X Shares",
+               "count":14,
+               "sentiment":94
+            },
+            {
+               "title":"SL Green Realty Corp.",
+               "count":2,
+               "sentiment":75
+            },
+            {
+               "title":"E*TRADE Financial Corporation",
+               "count":7,
+               "sentiment":45
+            },
+            {
+               "title":"Direxion Daily Emrg Mkts Bear 3X Shares",
+               "count":2,
+               "sentiment":54
+            },
+            {
+               "title":"Market Vectors Russia ETF",
+               "count":2,
+               "sentiment":50
+            },
+            {
+               "title":"PIMCO High Income Fund",
+               "count":1,
+               "sentiment":66
+            },
+            {
+               "title":"State Street Corp.",
+               "count":5,
+               "sentiment":58
+            },
+            {
+               "title":"iShares MSCI Taiwan Index",
+               "count":1,
+               "sentiment":39
+            },
+            {
+               "title":"iPath DJ-UBS Sugar TR Sub-Idx ETN",
+               "count":2,
+               "sentiment":91
+            },
+            {
+               "title":"Semiconductor HOLDRs",
+               "count":3,
+               "sentiment":65
+            },
+            {
+               "title":"Lloyds Banking Group plc",
+               "count":1,
+               "sentiment":63
+            },
+            {
+               "title":"ProShares Ultra Oil & Gas",
+               "count":1,
+               "sentiment":82
+            },
+            {
+               "title":"iShares MSCI Mexico Investable Mkt Idx",
+               "count":1,
+               "sentiment":71
+            },
+            {
+               "title":"SunTrust Banks, Inc.",
+               "count":3,
+               "sentiment":90
+            },
+            {
+               "title":"Market Vectors Coal ETF",
+               "count":4,
+               "sentiment":77
+            },
+            {
+               "title":"American Tower Corp.",
+               "count":3,
+               "sentiment":76
+            },
+            {
+               "title":"Dow 30 Premium Dow 30 Enhanced ",
+               "count":1,
+               "sentiment":87
+            },
+            {
+               "title":"Deutsche Bank AG",
+               "count":4,
+               "sentiment":51
+            },
+            {
+               "title":"United States Oil",
+               "count":8,
+               "sentiment":86
+            },
+            {
+               "title":"iShares Barclays 20+ Year Treas Bond",
+               "count":3,
+               "sentiment":47
+            },
+            {
+               "title":"PowerShares DB US Dollar Index Bullish",
+               "count":2,
+               "sentiment":89
+            },
+            {
+               "title":"American Capital, Ltd.",
+               "count":11,
+               "sentiment":52
+            },
+            {
+               "title":"PowerShares DB Gold Double Long ETN",
+               "count":1,
+               "sentiment":75
+            },
+            {
+               "title":"Fortress Investment Group LLC",
+               "count":1,
+               "sentiment":36
+            },
+            {
+               "title":"Oil Services HOLDRs",
+               "count":2,
+               "sentiment":48
+            },
+            {
+               "title":"iShares MSCI Austria Investable Mkt Idx",
+               "count":1,
+               "sentiment":66
+            },
+            {
+               "title":"Guggenheim Airline",
+               "count":1,
+               "sentiment":39
+            },
+            {
+               "title":"SPDR S&P Emerging Europe",
+               "count":2,
+               "sentiment":93
+            },
+            {
+               "title":"Market Vectors Agribusiness ETF",
+               "count":1,
+               "sentiment":38
+            },
+            {
+               "title":"Guggenheim Shipping",
+               "count":2,
+               "sentiment":79
+            },
+            {
+               "title":"iShares Silver Trust",
+               "count":8,
+               "sentiment":33
+            },
+            {
+               "title":"Guggenheim Solar",
+               "count":3,
+               "sentiment":61
+            },
+            {
+               "title":"Brookfield Asset Management Inc.",
+               "count":4,
+               "sentiment":92
+            },
+            {
+               "title":"CME Group Inc.",
+               "count":1,
+               "sentiment":58
+            },
+            {
+               "title":"Stifel Financial Corp.",
+               "count":1,
+               "sentiment":64
+            },
+            {
+               "title":"Synovus Financial Corp.",
+               "count":1,
+               "sentiment":65
+            },
+            {
+               "title":"Energy Select Sector SPDR",
+               "count":2,
+               "sentiment":77
+            },
+            {
+               "title":"Hartford Financial Services Group Inc.",
+               "count":3,
+               "sentiment":79
+            },
+            {
+               "title":"iShares MSCI Malaysia Index",
+               "count":1,
+               "sentiment":38
+            },
+            {
+               "title":"Allied Irish Banks plc",
+               "count":3,
+               "sentiment":72
+            },
+            {
+               "title":"Market Vectors Junior Gold Miners ETF",
+               "count":3,
+               "sentiment":90
+            },
+            {
+               "title":"Kimco Realty Corporation",
+               "count":1,
+               "sentiment":94
+            },
+            {
+               "title":"iShares NYSE Composite Index",
+               "count":1,
+               "sentiment":63
+            },
+            {
+               "title":"ProShares UltraShort 20+ Year Treasury",
+               "count":5,
+               "sentiment":81
+            },
+            {
+               "title":"Diamondrock Hospitality Co.",
+               "count":3,
+               "sentiment":78
+            },
+            {
+               "title":"IntercontinentalExchange, Inc.",
+               "count":9,
+               "sentiment":49
+            },
+            {
+               "title":"Aberdeen Asia-Pacific Income Fund Inc.",
+               "count":1,
+               "sentiment":73
+            },
+            {
+               "title":"Blackrock International Growth and Income Trust",
+               "count":1,
+               "sentiment":91
+            },
+            {
+               "title":"BlackRock Global Opportunities Equity Trust",
+               "count":1,
+               "sentiment":52
+            },
+            {
+               "title":"iShares MSCI Australia Index",
+               "count":1,
+               "sentiment":82
+            },
+            {
+               "title":"Eaton Vance Tax-Managed Global ",
+               "count":1,
+               "sentiment":70
+            },
+            {
+               "title":"Zions Bancorp.",
+               "count":6,
+               "sentiment":47
+            },
+            {
+               "title":"Jefferies Group Inc.",
+               "count":1,
+               "sentiment":88
+            },
+            {
+               "title":"CIT Group Inc.",
+               "count":2,
+               "sentiment":41
+            },
+            {
+               "title":"Strategic Hotels & Resorts, Inc.",
+               "count":11,
+               "sentiment":75
+            },
+            {
+               "title":"Arbor Realty Trust Inc.",
+               "count":2,
+               "sentiment":55
+            },
+            {
+               "title":"Franklin Resources Inc.",
+               "count":1,
+               "sentiment":80
+            },
+            {
+               "title":"RAIT Financial Trust",
+               "count":1,
+               "sentiment":42
+            },
+            {
+               "title":"ProShares Ultra Silver",
+               "count":6,
+               "sentiment":74
+            },
+            {
+               "title":"Cninsure Inc.",
+               "count":1,
+               "sentiment":87
+            },
+            {
+               "title":"Interactive Brokers Group, Inc.",
+               "count":1,
+               "sentiment":73
+            },
+            {
+               "title":"iPath S&P 500 VIX Short-Term Futures ETN",
+               "count":5,
+               "sentiment":85
+            },
+            {
+               "title":"ProShares Ultra DJ-UBS Crude Oil",
+               "count":1,
+               "sentiment":39
+            },
+            {
+               "title":"Direxion Daily Financial Bear 3X Shares",
+               "count":7,
+               "sentiment":38
+            },
+            {
+               "title":"GDL Fund, The Common Shares of ",
+               "count":1,
+               "sentiment":35
+            },
+            {
+               "title":"Retail HOLDRs",
+               "count":1,
+               "sentiment":48
+            },
+            {
+               "title":"Macerich Co.",
+               "count":7,
+               "sentiment":92
+            },
+            {
+               "title":"PowerShares Water Resources",
+               "count":1,
+               "sentiment":63
+            },
+            {
+               "title":"Federal National Mortgage Association",
+               "count":2,
+               "sentiment":77
+            },
+            {
+               "title":"iShares MSCI Turkey Invest Mkt Index",
+               "count":2,
+               "sentiment":88
+            },
+            {
+               "title":"TD AMERITRADE Holding Corporation",
+               "count":1,
+               "sentiment":79
+            },
+            {
+               "title":"CapitalSource Inc.",
+               "count":1,
+               "sentiment":73
+            },
+            {
+               "title":"First Niagara Financial Group Inc.",
+               "count":1,
+               "sentiment":71
+            },
+            {
+               "title":"Susquehanna Bancshares, Inc.",
+               "count":1,
+               "sentiment":58
+            },
+            {
+               "title":"WisdomTree Dreyfus Chinese Yuan",
+               "count":3,
+               "sentiment":69
+            },
+            {
+               "title":"Winthrop Realty Trust",
+               "count":1,
+               "sentiment":30
+            },
+            {
+               "title":"The St. Joe Company",
+               "count":1,
+               "sentiment":52
+            },
+            {
+               "title":"Apartment Investment & Management Co.",
+               "count":1,
+               "sentiment":79
+            },
+            {
+               "title":"Unum Group",
+               "count":1,
+               "sentiment":50
+            },
+            {
+               "title":"MBIA Inc.",
+               "count":6,
+               "sentiment":73
+            },
+            {
+               "title":"Huntington Bancshares Inc.",
+               "count":1,
+               "sentiment":37
+            },
+            {
+               "title":"Peoples United Financial Inc.",
+               "count":1,
+               "sentiment":85
+            },
+            {
+               "title":"SPDR S&P Homebuilders",
+               "count":3,
+               "sentiment":36
+            },
+            {
+               "title":"ProShares UltraShort S&P500",
+               "count":2,
+               "sentiment":76
+            },
+            {
+               "title":"ING Groep NV",
+               "count":1,
+               "sentiment":58
+            },
+            {
+               "title":"Privatebancorp Inc.",
+               "count":1,
+               "sentiment":41
+            },
+            {
+               "title":"Freddie Mac",
+               "count":1,
+               "sentiment":55
+            },
+            {
+               "title":"iPath S&P GSCI Crude Oil TR Index ETN",
+               "count":6,
+               "sentiment":39
+            },
+            {
+               "title":"iShares FTSE China (HK Listed) Index",
+               "count":1,
+               "sentiment":82
+            },
+            {
+               "title":"Regions Financial Corp.",
+               "count":1,
+               "sentiment":70
+            },
+            {
+               "title":"Dynex Capital Inc.",
+               "count":1,
+               "sentiment":85
+            },
+            {
+               "title":"Direxion Daily Large Cap Bull 3X Shares",
+               "count":1,
+               "sentiment":40
+            },
+            {
+               "title":"AmeriCredit Corp.",
+               "count":3,
+               "sentiment":90
+            },
+            {
+               "title":"iShares iBoxx $ High Yield Corporate Bd",
+               "count":1,
+               "sentiment":71
+            },
+            {
+               "title":"Thai Capital Fund Inc.",
+               "count":1,
+               "sentiment":74
+            },
+            {
+               "title":"Astoria Financial Corporation",
+               "count":1,
+               "sentiment":69
+            },
+            {
+               "title":"ProShares UltraShort Dow30",
+               "count":1,
+               "sentiment":83
+            },
+            {
+               "title":"ProShares UltraShort Real Estate",
+               "count":1,
+               "sentiment":36
+            },
+            {
+               "title":"Market Vectors Uranium+Nuclear Enrgy ETF",
+               "count":1,
+               "sentiment":60
+            }
+         ]
+      },
+      {
+         "name":"None",
+         "children":[
+            {
+               "title":"E-Mini S&P 500 Futures",
+               "count":191,
+               "sentiment":46
+            },
+            {
+               "title":"E-Mini NASDAQ 100 Futures",
+               "count":11,
+               "sentiment":30
+            },
+            {
+               "title":"E-Mini DJIA ($5) Futures",
+               "count":10,
+               "sentiment":32
+            },
+            {
+               "title":"NASDAQ Composite Index",
+               "count":6,
+               "sentiment":43
+            },
+            {
+               "title":"Dow Jones Industrial Index",
+               "count":18,
+               "sentiment":45
+            },
+            {
+               "title":"S&P 500 Index",
+               "count":50,
+               "sentiment":34
+            },
+            {
+               "title":"Light, Sweet Crude Oil Futures",
+               "count":63,
+               "sentiment":95
+            },
+            {
+               "title":"Gold Futures",
+               "count":18,
+               "sentiment":91
+            },
+            {
+               "title":"Natural Gas",
+               "count":16,
+               "sentiment":74
+            },
+            {
+               "title":"30 Year U.S. Treasury Bonds",
+               "count":48,
+               "sentiment":41
+            },
+            {
+               "title":"British Pound / US Dollar",
+               "count":67,
+               "sentiment":42
+            },
+            {
+               "title":"Euro / British Pound",
+               "count":15,
+               "sentiment":62
+            },
+            {
+               "title":"Australian Dollar / US Dollar",
+               "count":70,
+               "sentiment":57
+            },
+            {
+               "title":"Sun Microsystems Inc.",
+               "count":1,
+               "sentiment":34
+            },
+            {
+               "title":"Predictions for 2010",
+               "count":16,
+               "sentiment":50
+            },
+            {
+               "title":"Euro / US Dollar",
+               "count":181,
+               "sentiment":61
+            },
+            {
+               "title":"US Dollar Index",
+               "count":24,
+               "sentiment":75
+            },
+            {
+               "title":"British Pound / Japanese Yen",
+               "count":54,
+               "sentiment":84
+            },
+            {
+               "title":"CBOE Volatility Index",
+               "count":19,
+               "sentiment":33
+            },
+            {
+               "title":"US Dollar / Japanese Yen",
+               "count":73,
+               "sentiment":89
+            },
+            {
+               "title":"Canadian Dollar / Japanese Yen",
+               "count":13,
+               "sentiment":87
+            },
+            {
+               "title":"US Dollar / Canadian Dollar",
+               "count":46,
+               "sentiment":75
+            },
+            {
+               "title":"New Zealand Dollar / US Dollar",
+               "count":14,
+               "sentiment":59
+            },
+            {
+               "title":"New Zealand Dollar/Yen",
+               "count":4,
+               "sentiment":52
+            },
+            {
+               "title":"10 Year U.S. Treasury Notes",
+               "count":11,
+               "sentiment":89
+            },
+            {
+               "title":"EURO / AUSSIE DOLLAR",
+               "count":4,
+               "sentiment":59
+            },
+            {
+               "title":"Euro / Japanese Yen",
+               "count":17,
+               "sentiment":85
+            },
+            {
+               "title":"US Dollar / Swiss Franc",
+               "count":9,
+               "sentiment":92
+            },
+            {
+               "title":"CME US Dollar Index Futures",
+               "count":10,
+               "sentiment":63
+            },
+            {
+               "title":"Australian Dollar / Japanese Yen",
+               "count":18,
+               "sentiment":51
+            },
+            {
+               "title":"Euro / Canadian Dollar",
+               "count":4,
+               "sentiment":68
+            },
+            {
+               "title":"Russell 2000 Index Mini Futures",
+               "count":6,
+               "sentiment":30
+            },
+            {
+               "title":"British Pound / Australian Dollar",
+               "count":7,
+               "sentiment":83
+            },
+            {
+               "title":"British Pound / Canadian Dollar",
+               "count":3,
+               "sentiment":64
+            },
+            {
+               "title":"US Dollar / Norweigen Krona",
+               "count":7,
+               "sentiment":44
+            },
+            {
+               "title":"JPY/USD Futures",
+               "count":2,
+               "sentiment":58
+            },
+            {
+               "title":"Silver Futures",
+               "count":3,
+               "sentiment":72
+            },
+            {
+               "title":"Ticketmaster Entertainment, Inc.",
+               "count":1,
+               "sentiment":59
+            },
+            {
+               "title":"Exchange Talk sponsored by CME Group",
+               "count":5,
+               "sentiment":66
+            },
+            {
+               "title":"EUR/USD Futures",
+               "count":11,
+               "sentiment":32
+            },
+            {
+               "title":"GBP/USD Futures",
+               "count":1,
+               "sentiment":73
+            },
+            {
+               "title":"Corn Futures",
+               "count":1,
+               "sentiment":38
+            },
+            {
+               "title":"The Federal Reserve",
+               "count":1,
+               "sentiment":62
+            },
+            {
+               "title":"Euro / Swiss Franc",
+               "count":1,
+               "sentiment":73
+            },
+            {
+               "title":"Swiss Franc / Japanese Yen",
+               "count":2,
+               "sentiment":55
+            },
+            {
+               "title":"Cyclacel Pharmaceuticals, Inc.",
+               "count":3,
+               "sentiment":61
+            },
+            {
+               "title":"Design Within Reach Inc.",
+               "count":1,
+               "sentiment":54
+            },
+            {
+               "title":"Australian Dollar / New Zealand Dollar",
+               "count":1,
+               "sentiment":69
+            },
+            {
+               "title":"Australian Dollar / Canadian Dollar",
+               "count":1,
+               "sentiment":91
+            }
+         ]
+      },
+      {
+         "name":"Technology",
+         "children":[
+            {
+               "title":"Google Inc.",
+               "count":111,
+               "sentiment":44
+            },
+            {
+               "title":"Integrated Device Technology, Inc.",
+               "count":1,
+               "sentiment":31
+            },
+            {
+               "title":"NVIDIA Corporation",
+               "count":2,
+               "sentiment":41
+            },
+            {
+               "title":"Salesforce.com",
+               "count":2,
+               "sentiment":39
+            },
+            {
+               "title":"Energy Conversion Devices, Inc.",
+               "count":2,
+               "sentiment":75
+            },
+            {
+               "title":"Apple Inc.",
+               "count":119,
+               "sentiment":63
+            },
+            {
+               "title":"Take-Two Interactive Software Inc.",
+               "count":1,
+               "sentiment":82
+            },
+            {
+               "title":"Sourcefire, Inc.",
+               "count":2,
+               "sentiment":94
+            },
+            {
+               "title":"Twitter",
+               "count":1,
+               "sentiment":48
+            },
+            {
+               "title":"BlackBerry",
+               "count":75,
+               "sentiment":72
+            },
+            {
+               "title":"Activision Blizzard, Inc.",
+               "count":11,
+               "sentiment":61
+            },
+            {
+               "title":"China TransInfo Technology Corp.",
+               "count":3,
+               "sentiment":58
+            },
+            {
+               "title":"Cerner Corporation",
+               "count":2,
+               "sentiment":87
+            },
+            {
+               "title":"Palm, Inc.",
+               "count":7,
+               "sentiment":82
+            },
+            {
+               "title":"AsiaInfo-Linkage,Inc.",
+               "count":17,
+               "sentiment":62
+            },
+            {
+               "title":"Yingli Green Energy Holding Co. Ltd.",
+               "count":18,
+               "sentiment":85
+            },
+            {
+               "title":"Rackspace Hosting, Inc",
+               "count":1,
+               "sentiment":52
+            },
+            {
+               "title":"Skyworks Solutions Inc.",
+               "count":2,
+               "sentiment":35
+            },
+            {
+               "title":"Cypress Semiconductor Corporation",
+               "count":2,
+               "sentiment":91
+            },
+            {
+               "title":"Semiconductor Manufacturing International Corp.",
+               "count":1,
+               "sentiment":52
+            },
+            {
+               "title":"JDS Uniphase Corporation",
+               "count":3,
+               "sentiment":73
+            },
+            {
+               "title":"Micron Technology Inc.",
+               "count":1,
+               "sentiment":72
+            },
+            {
+               "title":"Facebook",
+               "count":1,
+               "sentiment":74
+            },
+            {
+               "title":"STEC, Inc.",
+               "count":11,
+               "sentiment":34
+            },
+            {
+               "title":"Blue Coat Systems Inc.",
+               "count":9,
+               "sentiment":41
+            },
+            {
+               "title":"Nanometrics Incorporated",
+               "count":15,
+               "sentiment":83
+            },
+            {
+               "title":"Telvent Git S.A.",
+               "count":1,
+               "sentiment":59
+            },
+            {
+               "title":"Vimicro International Corp.",
+               "count":1,
+               "sentiment":73
+            },
+            {
+               "title":"Rambus Inc.",
+               "count":12,
+               "sentiment":49
+            },
+            {
+               "title":"VimpelCom Ltd.",
+               "count":5,
+               "sentiment":91
+            },
+            {
+               "title":"ArcSight, Inc.",
+               "count":6,
+               "sentiment":80
+            },
+            {
+               "title":"Millicom International Cellular SA",
+               "count":5,
+               "sentiment":33
+            },
+            {
+               "title":"Aruba Networks, Inc.",
+               "count":10,
+               "sentiment":58
+            },
+            {
+               "title":"LSI Corporation",
+               "count":1,
+               "sentiment":72
+            },
+            {
+               "title":"Nokia Corporation",
+               "count":5,
+               "sentiment":30
+            },
+            {
+               "title":"ICx Technologies, Inc.",
+               "count":11,
+               "sentiment":71
+            },
+            {
+               "title":"Symantec Corporation",
+               "count":1,
+               "sentiment":55
+            },
+            {
+               "title":"Ansys, Inc.",
+               "count":2,
+               "sentiment":30
+            },
+            {
+               "title":"Cisco Systems, Inc.",
+               "count":16,
+               "sentiment":53
+            },
+            {
+               "title":"Neutral Tandem, Inc.",
+               "count":1,
+               "sentiment":94
+            },
+            {
+               "title":"Telestone Technologies Corp.",
+               "count":1,
+               "sentiment":77
+            },
+            {
+               "title":"Badger Meter Inc.",
+               "count":1,
+               "sentiment":80
+            },
+            {
+               "title":"Microtune Inc.",
+               "count":1,
+               "sentiment":95
+            },
+            {
+               "title":"AOL, Inc.",
+               "count":1,
+               "sentiment":60
+            },
+            {
+               "title":"FARO Technologies Inc.",
+               "count":1,
+               "sentiment":65
+            },
+            {
+               "title":"Jabil Circuit Inc.",
+               "count":1,
+               "sentiment":67
+            },
+            {
+               "title":"Fidelity National Information Services, Inc.",
+               "count":1,
+               "sentiment":72
+            },
+            {
+               "title":"TerreStar Corporation",
+               "count":1,
+               "sentiment":91
+            },
+            {
+               "title":"Texas Instruments Inc.",
+               "count":2,
+               "sentiment":88
+            },
+            {
+               "title":"Sina Corp.",
+               "count":2,
+               "sentiment":58
+            },
+            {
+               "title":"Hewlett-Packard Company",
+               "count":6,
+               "sentiment":95
+            },
+            {
+               "title":"Synaptics Inc.",
+               "count":1,
+               "sentiment":62
+            },
+            {
+               "title":"Canadian Solar Inc.",
+               "count":5,
+               "sentiment":76
+            },
+            {
+               "title":"Merix Corp.",
+               "count":1,
+               "sentiment":86
+            },
+            {
+               "title":"Wipro Ltd.",
+               "count":3,
+               "sentiment":39
+            },
+            {
+               "title":"Crown Castle International Corp.",
+               "count":2,
+               "sentiment":34
+            },
+            {
+               "title":"Intel Corporation",
+               "count":1,
+               "sentiment":63
+            },
+            {
+               "title":"Microsoft Corporation",
+               "count":13,
+               "sentiment":60
+            },
+            {
+               "title":"Baidu, Inc.",
+               "count":17,
+               "sentiment":80
+            },
+            {
+               "title":"OmniVision Technologies Inc.",
+               "count":1,
+               "sentiment":58
+            },
+            {
+               "title":"Sprint Nextel Corp.",
+               "count":6,
+               "sentiment":95
+            },
+            {
+               "title":"AT&T, Inc.",
+               "count":12,
+               "sentiment":57
+            },
+            {
+               "title":"JA Solar Holdings Co., Ltd.",
+               "count":2,
+               "sentiment":50
+            },
+            {
+               "title":"First Solar, Inc.",
+               "count":18,
+               "sentiment":53
+            },
+            {
+               "title":"Maxwell Technologies Inc.",
+               "count":2,
+               "sentiment":88
+            },
+            {
+               "title":"BMC Software Inc.",
+               "count":1,
+               "sentiment":93
+            },
+            {
+               "title":"International Game Technology",
+               "count":1,
+               "sentiment":87
+            },
+            {
+               "title":"CIENA Corp.",
+               "count":7,
+               "sentiment":63
+            },
+            {
+               "title":"China Sunergy Co. Ltd.",
+               "count":5,
+               "sentiment":32
+            },
+            {
+               "title":"Hanwha SOlarOne, Ltd.",
+               "count":6,
+               "sentiment":40
+            },
+            {
+               "title":"Vonage Holdings Corporation",
+               "count":4,
+               "sentiment":82
+            },
+            {
+               "title":"GeoEye, Inc.",
+               "count":2,
+               "sentiment":72
+            },
+            {
+               "title":"Itron, Inc.",
+               "count":3,
+               "sentiment":50
+            },
+            {
+               "title":"A123 Systems, Inc.",
+               "count":6,
+               "sentiment":60
+            },
+            {
+               "title":"On Track Innovations Ltd.",
+               "count":1,
+               "sentiment":81
+            },
+            {
+               "title":"VMware, Inc.",
+               "count":19,
+               "sentiment":73
+            },
+            {
+               "title":"Western Digital Corp.",
+               "count":1,
+               "sentiment":34
+            },
+            {
+               "title":"Verizon Communications Inc.",
+               "count":18,
+               "sentiment":30
+            },
+            {
+               "title":"Leap Wireless International Inc.",
+               "count":3,
+               "sentiment":88
+            },
+            {
+               "title":"International Business Machines Corp.",
+               "count":5,
+               "sentiment":62
+            },
+            {
+               "title":"SanDisk Corp.",
+               "count":2,
+               "sentiment":86
+            },
+            {
+               "title":"Yahoo! Inc.",
+               "count":3,
+               "sentiment":48
+            },
+            {
+               "title":"LDK Solar Co., Ltd.",
+               "count":5,
+               "sentiment":67
+            },
+            {
+               "title":"Suntech Power Holdings Co. Ltd.",
+               "count":1,
+               "sentiment":95
+            },
+            {
+               "title":"Brooks Automation Inc.",
+               "count":1,
+               "sentiment":30
+            },
+            {
+               "title":"Mindspeed Technologies Inc.",
+               "count":1,
+               "sentiment":70
+            },
+            {
+               "title":"NICE Systems Ltd.",
+               "count":1,
+               "sentiment":81
+            },
+            {
+               "title":"Emulex Corp.",
+               "count":1,
+               "sentiment":54
+            },
+            {
+               "title":"Cree Inc.",
+               "count":11,
+               "sentiment":37
+            },
+            {
+               "title":"Orion Energy Systems, Inc",
+               "count":19,
+               "sentiment":53
+            },
+            {
+               "title":"LM Ericsson Telephone Co.",
+               "count":2,
+               "sentiment":52
+            },
+            {
+               "title":"Intevac Inc.",
+               "count":1,
+               "sentiment":65
+            },
+            {
+               "title":"Sierra Wireless Inc.",
+               "count":1,
+               "sentiment":91
+            },
+            {
+               "title":"Trina Solar Ltd.",
+               "count":4,
+               "sentiment":64
+            },
+            {
+               "title":"Riverbed Technology, Inc.",
+               "count":1,
+               "sentiment":43
+            },
+            {
+               "title":"Evergreen Solar Inc.",
+               "count":3,
+               "sentiment":42
+            },
+            {
+               "title":"Red Hat, Inc.",
+               "count":2,
+               "sentiment":84
+            },
+            {
+               "title":"Nuance Communications, Inc.",
+               "count":1,
+               "sentiment":83
+            },
+            {
+               "title":"GT Advanced Technologies, Inc.",
+               "count":2,
+               "sentiment":48
+            },
+            {
+               "title":"Perfect World Co., Ltd.",
+               "count":1,
+               "sentiment":38
+            },
+            {
+               "title":"GSI Technology Inc.",
+               "count":1,
+               "sentiment":93
+            },
+            {
+               "title":"DragonWave Inc.",
+               "count":2,
+               "sentiment":67
+            },
+            {
+               "title":"InfoSpace Inc.",
+               "count":3,
+               "sentiment":85
+            },
+            {
+               "title":"NetEase.com, Inc.",
+               "count":1,
+               "sentiment":57
+            },
+            {
+               "title":"City Telecom HK Ltd.",
+               "count":1,
+               "sentiment":51
+            },
+            {
+               "title":"Automatic Data Processing, Inc.",
+               "count":1,
+               "sentiment":55
+            },
+            {
+               "title":"MetroPCS Communications, Inc.",
+               "count":1,
+               "sentiment":86
+            },
+            {
+               "title":"Dell Inc.",
+               "count":6,
+               "sentiment":56
+            },
+            {
+               "title":"Tellabs Inc.",
+               "count":1,
+               "sentiment":35
+            },
+            {
+               "title":"China INSOnline Corp.",
+               "count":1,
+               "sentiment":87
+            },
+            {
+               "title":"Xerox Corp.",
+               "count":1,
+               "sentiment":59
+            },
+            {
+               "title":"SMART Modular Technologies (WWH) Inc.",
+               "count":1,
+               "sentiment":63
+            },
+            {
+               "title":"Vodafone Group plc",
+               "count":1,
+               "sentiment":40
+            },
+            {
+               "title":"iGo, Inc.",
+               "count":1,
+               "sentiment":38
+            },
+            {
+               "title":"Plexus Corp.",
+               "count":1,
+               "sentiment":45
+            },
+            {
+               "title":"Applied Materials Inc.",
+               "count":2,
+               "sentiment":78
+            },
+            {
+               "title":"Comverge, Inc.",
+               "count":1,
+               "sentiment":50
+            },
+            {
+               "title":"Novatel Wireless Inc.",
+               "count":1,
+               "sentiment":79
+            },
+            {
+               "title":"Corning Inc.",
+               "count":2,
+               "sentiment":61
+            },
+            {
+               "title":"Tessera Technologies Inc.",
+               "count":1,
+               "sentiment":92
+            },
+            {
+               "title":"Brocade Communications Systems, Inc.",
+               "count":1,
+               "sentiment":58
+            },
+            {
+               "title":"Conversant, Inc.",
+               "count":1,
+               "sentiment":63
+            },
+            {
+               "title":"Zhone Technologies Inc.",
+               "count":1,
+               "sentiment":65
+            },
+            {
+               "title":"Alcatel-Lucent",
+               "count":1,
+               "sentiment":89
+            },
+            {
+               "title":"Zygo Corp.",
+               "count":1,
+               "sentiment":70
+            },
+            {
+               "title":"ReneSola Ltd.",
+               "count":1,
+               "sentiment":34
+            },
+            {
+               "title":"IHS Inc.",
+               "count":1,
+               "sentiment":32
+            },
+            {
+               "title":"Mobile Telesystems OJSC",
+               "count":1,
+               "sentiment":93
+            },
+            {
+               "title":"Manhattan Associates, Inc.",
+               "count":2,
+               "sentiment":32
+            },
+            {
+               "title":"Autodesk, Inc.",
+               "count":1,
+               "sentiment":64
+            },
+            {
+               "title":"Satyam Computer Services Ltd.",
+               "count":2,
+               "sentiment":45
+            },
+            {
+               "title":"Infosys Technologies Limited",
+               "count":1,
+               "sentiment":39
+            },
+            {
+               "title":"Nextwave Wireless Inc.",
+               "count":3,
+               "sentiment":84
+            },
+            {
+               "title":"Seagate Technology PLC",
+               "count":1,
+               "sentiment":78
+            },
+            {
+               "title":"Veeco Instruments Inc.",
+               "count":1,
+               "sentiment":87
+            },
+            {
+               "title":"Citrix Systems, Inc.",
+               "count":1,
+               "sentiment":63
+            }
+         ]
+      },
+      {
+         "name":"Consumer Goods",
+         "children":[
+            {
+               "title":"Archer Daniels Midland Company",
+               "count":1,
+               "sentiment":70
+            },
+            {
+               "title":"Bunge Limited",
+               "count":2,
+               "sentiment":31
+            },
+            {
+               "title":"ConAgra Foods, Inc.",
+               "count":1,
+               "sentiment":87
+            },
+            {
+               "title":"Green Mountain Coffee Roasters Inc.",
+               "count":8,
+               "sentiment":80
+            },
+            {
+               "title":"Ford Motor Co.",
+               "count":27,
+               "sentiment":64
+            },
+            {
+               "title":"Agria Corporation",
+               "count":1,
+               "sentiment":50
+            },
+            {
+               "title":"Dana Holding Corporation",
+               "count":7,
+               "sentiment":92
+            },
+            {
+               "title":"China Automotive Systems Inc.",
+               "count":22,
+               "sentiment":33
+            },
+            {
+               "title":"Eastman Kodak Co.",
+               "count":9,
+               "sentiment":49
+            },
+            {
+               "title":"Goodyear Tire & Rubber Co.",
+               "count":5,
+               "sentiment":45
+            },
+            {
+               "title":"Harley-Davidson, Inc.",
+               "count":1,
+               "sentiment":50
+            },
+            {
+               "title":"Fifth & Pacific Companies, Inc",
+               "count":3,
+               "sentiment":50
+            },
+            {
+               "title":"Fuqi International, Inc.",
+               "count":17,
+               "sentiment":46
+            },
+            {
+               "title":"Origin Agritech Limited",
+               "count":23,
+               "sentiment":89
+            },
+            {
+               "title":"Temple-Inland Inc.",
+               "count":2,
+               "sentiment":49
+            },
+            {
+               "title":"Polaris Industries, Inc.",
+               "count":1,
+               "sentiment":76
+            },
+            {
+               "title":"Amerigon Inc.",
+               "count":6,
+               "sentiment":52
+            },
+            {
+               "title":"Mead Johnson Nutrition Company",
+               "count":2,
+               "sentiment":80
+            },
+            {
+               "title":"Cosan Ltd.",
+               "count":2,
+               "sentiment":39
+            },
+            {
+               "title":"Quiksilver Inc.",
+               "count":2,
+               "sentiment":86
+            },
+            {
+               "title":"Cadbury plc",
+               "count":3,
+               "sentiment":49
+            },
+            {
+               "title":"Kraft Foods Inc.",
+               "count":3,
+               "sentiment":34
+            },
+            {
+               "title":"Nike Inc.",
+               "count":1,
+               "sentiment":55
+            },
+            {
+               "title":"AgFeed Industries, Inc.",
+               "count":2,
+               "sentiment":79
+            },
+            {
+               "title":"Peets Coffee & Tea Inc.",
+               "count":2,
+               "sentiment":50
+            },
+            {
+               "title":"Hershey Co.",
+               "count":2,
+               "sentiment":93
+            },
+            {
+               "title":"Lululemon Athletica Inc.",
+               "count":10,
+               "sentiment":57
+            },
+            {
+               "title":"BorgWarner Inc.",
+               "count":2,
+               "sentiment":81
+            },
+            {
+               "title":"Alliance One International, Inc.",
+               "count":1,
+               "sentiment":64
+            },
+            {
+               "title":"Altria Group Inc.",
+               "count":1,
+               "sentiment":52
+            },
+            {
+               "title":"Select Comfort Corporation",
+               "count":3,
+               "sentiment":30
+            },
+            {
+               "title":"Tempur Pedic International Inc.",
+               "count":1,
+               "sentiment":52
+            },
+            {
+               "title":"Deckers Outdoor Corp.",
+               "count":3,
+               "sentiment":49
+            },
+            {
+               "title":"General Mills, Inc.",
+               "count":2,
+               "sentiment":69
+            },
+            {
+               "title":"Johnson Controls Inc.",
+               "count":1,
+               "sentiment":80
+            },
+            {
+               "title":"Tyson Foods Inc.",
+               "count":1,
+               "sentiment":69
+            },
+            {
+               "title":"Imperial Sugar Co.",
+               "count":1,
+               "sentiment":60
+            },
+            {
+               "title":"Fossil, Inc.",
+               "count":1,
+               "sentiment":94
+            },
+            {
+               "title":"CROCS Inc.",
+               "count":1,
+               "sentiment":38
+            },
+            {
+               "title":"American Axle & Manufacturing Holdings Inc.",
+               "count":8,
+               "sentiment":58
+            },
+            {
+               "title":"Honda Motor Co., Ltd.",
+               "count":1,
+               "sentiment":54
+            },
+            {
+               "title":"Toyota Motor Corp.",
+               "count":1,
+               "sentiment":66
+            },
+            {
+               "title":"McCormick & Co. Inc.",
+               "count":3,
+               "sentiment":70
+            },
+            {
+               "title":"Wimm-Bill-Dann Foods OJSC",
+               "count":1,
+               "sentiment":42
+            },
+            {
+               "title":"Ingredion Inc.",
+               "count":1,
+               "sentiment":41
+            }
+         ]
+      },
+      {
+         "name":"Healthcare",
+         "children":[
+            {
+               "title":"Biogen Idec Inc.",
+               "count":1,
+               "sentiment":52
+            },
+            {
+               "title":"Express Scripts Inc.",
+               "count":7,
+               "sentiment":77
+            },
+            {
+               "title":"Gilead Sciences Inc.",
+               "count":7,
+               "sentiment":79
+            },
+            {
+               "title":"Unitedhealth Group, Inc.",
+               "count":1,
+               "sentiment":44
+            },
+            {
+               "title":"Human Genome Sciences Inc.",
+               "count":2,
+               "sentiment":88
+            },
+            {
+               "title":"Agilent Technologies Inc.",
+               "count":1,
+               "sentiment":92
+            },
+            {
+               "title":"Alcon Inc.",
+               "count":6,
+               "sentiment":49
+            },
+            {
+               "title":"Sangamo Biosciences Inc.",
+               "count":1,
+               "sentiment":51
+            },
+            {
+               "title":"Novavax, Inc.",
+               "count":2,
+               "sentiment":85
+            },
+            {
+               "title":"Inspire Pharmaceuticals, Inc.",
+               "count":1,
+               "sentiment":30
+            },
+            {
+               "title":"Athersys, Inc.",
+               "count":3,
+               "sentiment":86
+            },
+            {
+               "title":"Bio Telemetry",
+               "count":2,
+               "sentiment":63
+            },
+            {
+               "title":"Compugen Ltd.",
+               "count":1,
+               "sentiment":69
+            },
+            {
+               "title":"VIVUS Inc.",
+               "count":7,
+               "sentiment":39
+            },
+            {
+               "title":"Illumina Inc.",
+               "count":1,
+               "sentiment":33
+            },
+            {
+               "title":"Thermo Fisher Scientific, Inc.",
+               "count":1,
+               "sentiment":63
+            },
+            {
+               "title":"Valeant Pharmaceuticals International, Inc.",
+               "count":2,
+               "sentiment":77
+            },
+            {
+               "title":"BioCryst Pharmaceuticals, Inc.",
+               "count":2,
+               "sentiment":89
+            },
+            {
+               "title":"Vertex Pharmaceuticals Incorporated",
+               "count":1,
+               "sentiment":92
+            },
+            {
+               "title":"Salix Pharmaceuticals Ltd.",
+               "count":1,
+               "sentiment":83
+            },
+            {
+               "title":"Keryx Biopharmaceuticals Inc.",
+               "count":1,
+               "sentiment":48
+            },
+            {
+               "title":"Incyte Corporation",
+               "count":1,
+               "sentiment":42
+            },
+            {
+               "title":"Tenet Healthcare Corp.",
+               "count":1,
+               "sentiment":63
+            },
+            {
+               "title":"Mindray Medical International Limited",
+               "count":1,
+               "sentiment":67
+            },
+            {
+               "title":"Allos Therapeutics, Inc.",
+               "count":4,
+               "sentiment":39
+            },
+            {
+               "title":"Cytori Therapeutics, Inc.",
+               "count":1,
+               "sentiment":90
+            },
+            {
+               "title":"WellPoint Inc.",
+               "count":1,
+               "sentiment":89
+            },
+            {
+               "title":"Johnson & Johnson",
+               "count":1,
+               "sentiment":52
+            },
+            {
+               "title":"ev3, Inc.",
+               "count":1,
+               "sentiment":86
+            },
+            {
+               "title":"Elan Corp. plc",
+               "count":1,
+               "sentiment":34
+            },
+            {
+               "title":"Sunesis Pharmaceuticals Inc.",
+               "count":5,
+               "sentiment":90
+            },
+            {
+               "title":"China Medical Technologies Inc.",
+               "count":1,
+               "sentiment":87
+            },
+            {
+               "title":"Thoratec Corp.",
+               "count":2,
+               "sentiment":87
+            },
+            {
+               "title":"Dendreon Corp.",
+               "count":12,
+               "sentiment":75
+            },
+            {
+               "title":"St. Jude Medical Inc.",
+               "count":1,
+               "sentiment":60
+            },
+            {
+               "title":"PharmAthene, Inc.",
+               "count":2,
+               "sentiment":48
+            },
+            {
+               "title":"Immucor Inc.",
+               "count":2,
+               "sentiment":54
+            },
+            {
+               "title":"XOMA Ltd.",
+               "count":1,
+               "sentiment":68
+            },
+            {
+               "title":"BioScrip Inc.",
+               "count":1,
+               "sentiment":57
+            },
+            {
+               "title":"Celldex Therapeutics, Inc.",
+               "count":2,
+               "sentiment":95
+            },
+            {
+               "title":"Somaxon Pharmaceuticals, Inc.",
+               "count":2,
+               "sentiment":56
+            },
+            {
+               "title":"Sunrise Senior Living Inc.",
+               "count":2,
+               "sentiment":35
+            },
+            {
+               "title":"Boston Scientific Corporation",
+               "count":1,
+               "sentiment":95
+            },
+            {
+               "title":"Genzyme Corp.",
+               "count":1,
+               "sentiment":63
+            },
+            {
+               "title":"Opexa Therapeutics, Inc.",
+               "count":11,
+               "sentiment":76
+            },
+            {
+               "title":"Cyclacel Pharmaceuticals, Inc.",
+               "count":16,
+               "sentiment":72
+            },
+            {
+               "title":"Merck & Co. Inc.",
+               "count":1,
+               "sentiment":48
+            },
+            {
+               "title":"StemCells Inc.",
+               "count":1,
+               "sentiment":32
+            },
+            {
+               "title":"CytRx Corporation",
+               "count":3,
+               "sentiment":55
+            },
+            {
+               "title":"Health Management Associates Inc.",
+               "count":1,
+               "sentiment":52
+            },
+            {
+               "title":"Matrixx Initiatives Inc.",
+               "count":4,
+               "sentiment":54
+            },
+            {
+               "title":"Geron Corporation",
+               "count":2,
+               "sentiment":54
+            },
+            {
+               "title":"Teva Pharmaceutical Industries Limited",
+               "count":3,
+               "sentiment":43
+            },
+            {
+               "title":"Immunomedics Inc.",
+               "count":8,
+               "sentiment":48
+            },
+            {
+               "title":"King Pharmaceuticals Inc.",
+               "count":1,
+               "sentiment":51
+            },
+            {
+               "title":"Adeona Pharmaceuticals, Inc.",
+               "count":1,
+               "sentiment":50
+            },
+            {
+               "title":"AEterna Zentaris Inc. (USA)",
+               "count":1,
+               "sentiment":95
+            },
+            {
+               "title":"Genomic Health Inc.",
+               "count":1,
+               "sentiment":89
+            },
+            {
+               "title":"Mylan, Inc.",
+               "count":1,
+               "sentiment":72
+            },
+            {
+               "title":"Volcano Corporation",
+               "count":1,
+               "sentiment":46
+            }
+         ]
+      },
+      {
+         "name":"Utilities",
+         "children":[
+            {
+               "title":"Enersis S.A.",
+               "count":1,
+               "sentiment":52
+            },
+            {
+               "title":"NRG Energy, Inc.",
+               "count":2,
+               "sentiment":72
+            },
+            {
+               "title":"A-Power Energy Generation Systems, Ltd.",
+               "count":18,
+               "sentiment":33
+            },
+            {
+               "title":"Dynegy Inc.",
+               "count":1,
+               "sentiment":30
+            },
+            {
+               "title":"Clean Energy Fuels Corp.",
+               "count":7,
+               "sentiment":91
+            },
+            {
+               "title":"American Electric Power Co., Inc.",
+               "count":2,
+               "sentiment":56
+            },
+            {
+               "title":"Duke Energy Corporation",
+               "count":1,
+               "sentiment":31
+            },
+            {
+               "title":"American Water Works Company, Inc.",
+               "count":1,
+               "sentiment":44
+            },
+            {
+               "title":"Exelon Corp.",
+               "count":1,
+               "sentiment":57
+            },
+            {
+               "title":"Ormat Technologies Inc.",
+               "count":1,
+               "sentiment":68
+            },
+            {
+               "title":"Otter Tail Corporation",
+               "count":2,
+               "sentiment":42
+            },
+            {
+               "title":"Aqua America Inc.",
+               "count":1,
+               "sentiment":58
+            }
+         ]
+      },
+      {
+         "name":"Basic Materials",
+         "children":[
+            {
+               "title":"Ensco plc",
+               "count":1,
+               "sentiment":40
+            },
+            {
+               "title":"Innophos Holdings Inc",
+               "count":2,
+               "sentiment":44
+            },
+            {
+               "title":"Pioneer Natural Resources Co.",
+               "count":1,
+               "sentiment":79
+            },
+            {
+               "title":"InterOil Corporation",
+               "count":1,
+               "sentiment":79
+            },
+            {
+               "title":"Randgold Resources Ltd.",
+               "count":13,
+               "sentiment":61
+            },
+            {
+               "title":"New Gold, Inc.",
+               "count":1,
+               "sentiment":83
+            },
+            {
+               "title":"Stillwater Mining Co.",
+               "count":2,
+               "sentiment":74
+            },
+            {
+               "title":"Exxon Mobil Corporation",
+               "count":5,
+               "sentiment":54
+            },
+            {
+               "title":"International Tower Hill Mines Ltd.",
+               "count":1,
+               "sentiment":71
+            },
+            {
+               "title":"Crosstex Energy LP",
+               "count":2,
+               "sentiment":47
+            },
+            {
+               "title":"Cameco Corp.",
+               "count":2,
+               "sentiment":57
+            },
+            {
+               "title":"McMoRan Exploration Co.",
+               "count":2,
+               "sentiment":94
+            },
+            {
+               "title":"China Agritech Inc.",
+               "count":12,
+               "sentiment":38
+            },
+            {
+               "title":"Zion Oil & Gas, Inc.",
+               "count":1,
+               "sentiment":33
+            },
+            {
+               "title":"Baker Hughes Incorporated",
+               "count":7,
+               "sentiment":54
+            },
+            {
+               "title":"Chesapeake Energy Corporation",
+               "count":15,
+               "sentiment":59
+            },
+            {
+               "title":"Helix Energy Solutions Group, Inc.",
+               "count":5,
+               "sentiment":32
+            },
+            {
+               "title":"Petroleo Brasileiro",
+               "count":3,
+               "sentiment":91
+            },
+            {
+               "title":"Sunoco, Inc.",
+               "count":4,
+               "sentiment":43
+            },
+            {
+               "title":"Tesoro Corporation",
+               "count":8,
+               "sentiment":76
+            },
+            {
+               "title":"TETRA Technologies Inc.",
+               "count":4,
+               "sentiment":44
+            },
+            {
+               "title":"Mosaic Co.",
+               "count":14,
+               "sentiment":79
+            },
+            {
+               "title":"Delta Petroleum Corp.",
+               "count":4,
+               "sentiment":40
+            },
+            {
+               "title":"Royale Energy Inc.",
+               "count":2,
+               "sentiment":86
+            },
+            {
+               "title":"Potash Corp. of Saskatchewan, Inc.",
+               "count":28,
+               "sentiment":94
+            },
+            {
+               "title":"United States Steel Corp.",
+               "count":17,
+               "sentiment":63
+            },
+            {
+               "title":"Western Refining Inc.",
+               "count":3,
+               "sentiment":40
+            },
+            {
+               "title":"Valero Energy Corp.",
+               "count":2,
+               "sentiment":60
+            },
+            {
+               "title":"Alcoa Inc.",
+               "count":4,
+               "sentiment":46
+            },
+            {
+               "title":"General Steel Holdings, Inc.",
+               "count":8,
+               "sentiment":51
+            },
+            {
+               "title":"Lihua International, Inc.",
+               "count":4,
+               "sentiment":53
+            },
+            {
+               "title":"Repsol YPF SA",
+               "count":1,
+               "sentiment":89
+            },
+            {
+               "title":"Atwood Oceanics, Inc.",
+               "count":2,
+               "sentiment":56
+            },
+            {
+               "title":"Metalico Inc.",
+               "count":10,
+               "sentiment":77
+            },
+            {
+               "title":"Global Industries Ltd.",
+               "count":3,
+               "sentiment":74
+            },
+            {
+               "title":"EI DuPont de Nemours & Co.",
+               "count":1,
+               "sentiment":32
+            },
+            {
+               "title":"China Green Agriculture, Inc.",
+               "count":3,
+               "sentiment":83
+            },
+            {
+               "title":"Yongye International, Inc.",
+               "count":1,
+               "sentiment":32
+            },
+            {
+               "title":"AK Steel Holding Corporation",
+               "count":4,
+               "sentiment":75
+            },
+            {
+               "title":"Nucor Corporation",
+               "count":5,
+               "sentiment":89
+            },
+            {
+               "title":"Patriot Coal Corporation",
+               "count":5,
+               "sentiment":66
+            },
+            {
+               "title":"Hess Corporation",
+               "count":1,
+               "sentiment":91
+            },
+            {
+               "title":"Sterlite Industries (India) Ltd.",
+               "count":1,
+               "sentiment":49
+            },
+            {
+               "title":"ConocoPhillips",
+               "count":2,
+               "sentiment":74
+            },
+            {
+               "title":"Arch Coal Inc.",
+               "count":2,
+               "sentiment":66
+            },
+            {
+               "title":"Alpha Natural Resources, Inc.",
+               "count":1,
+               "sentiment":75
+            },
+            {
+               "title":"SandRidge Energy, Inc.",
+               "count":1,
+               "sentiment":32
+            },
+            {
+               "title":"Aluminum Corporation Of China Limited",
+               "count":1,
+               "sentiment":31
+            },
+            {
+               "title":"Hecla Mining Co.",
+               "count":7,
+               "sentiment":43
+            },
+            {
+               "title":"Ivanhoe Energy Inc.",
+               "count":4,
+               "sentiment":80
+            },
+            {
+               "title":"Yanzhou Coal Mining Co. Ltd.",
+               "count":1,
+               "sentiment":49
+            },
+            {
+               "title":"Patterson-UTI Energy Inc.",
+               "count":2,
+               "sentiment":57
+            },
+            {
+               "title":"ATP Oil & Gas Corp.",
+               "count":3,
+               "sentiment":58
+            },
+            {
+               "title":"Silver Wheaton Corp.",
+               "count":2,
+               "sentiment":32
+            },
+            {
+               "title":"Agrium Inc.",
+               "count":3,
+               "sentiment":61
+            },
+            {
+               "title":"The Dow Chemical Company",
+               "count":1,
+               "sentiment":87
+            },
+            {
+               "title":"Nabors Industries Ltd.",
+               "count":3,
+               "sentiment":51
+            },
+            {
+               "title":"El Paso Corp.",
+               "count":1,
+               "sentiment":63
+            },
+            {
+               "title":"Callon Petroleum Co.",
+               "count":3,
+               "sentiment":54
+            },
+            {
+               "title":"Monsanto Co.",
+               "count":7,
+               "sentiment":50
+            },
+            {
+               "title":"Precision Drilling Corporation",
+               "count":7,
+               "sentiment":59
+            },
+            {
+               "title":"PolyOne Corporation",
+               "count":2,
+               "sentiment":88
+            },
+            {
+               "title":"Mechel OAO",
+               "count":2,
+               "sentiment":39
+            },
+            {
+               "title":"Provident Energy Ltd.",
+               "count":2,
+               "sentiment":82
+            },
+            {
+               "title":"Penn West Petroleum Ltd.",
+               "count":2,
+               "sentiment":87
+            },
+            {
+               "title":"The Valspar Corporation",
+               "count":2,
+               "sentiment":82
+            },
+            {
+               "title":"Freeport-McMoRan Copper & Gold Inc.",
+               "count":6,
+               "sentiment":61
+            },
+            {
+               "title":"Gran Tierra Energy, Inc.",
+               "count":1,
+               "sentiment":46
+            },
+            {
+               "title":"Steel Dynamics Inc.",
+               "count":2,
+               "sentiment":37
+            },
+            {
+               "title":"Goldcorp Inc.",
+               "count":1,
+               "sentiment":60
+            },
+            {
+               "title":"NovaGold Resources Inc.",
+               "count":1,
+               "sentiment":49
+            },
+            {
+               "title":"Titanium Metals Corporation",
+               "count":1,
+               "sentiment":52
+            },
+            {
+               "title":"Silver Standard Resources Inc.",
+               "count":5,
+               "sentiment":83
+            },
+            {
+               "title":"Barrick Gold Corporation",
+               "count":3,
+               "sentiment":47
+            },
+            {
+               "title":"Thompson Creek Metals Company Inc.",
+               "count":3,
+               "sentiment":42
+            },
+            {
+               "title":"Teck Resources Limited",
+               "count":2,
+               "sentiment":85
+            },
+            {
+               "title":"NGAS Resources Inc.",
+               "count":3,
+               "sentiment":87
+            },
+            {
+               "title":"Cliffs Natural Resources Inc.",
+               "count":1,
+               "sentiment":89
+            },
+            {
+               "title":"NewMarket Corp.",
+               "count":7,
+               "sentiment":72
+            },
+            {
+               "title":"Gerdau S.A.",
+               "count":1,
+               "sentiment":72
+            },
+            {
+               "title":"Atlas Pipeline Partners LP",
+               "count":3,
+               "sentiment":84
+            },
+            {
+               "title":"Occidental Petroleum Corporation",
+               "count":2,
+               "sentiment":55
+            },
+            {
+               "title":"Anooraq Resources Corporation",
+               "count":1,
+               "sentiment":75
+            },
+            {
+               "title":"USEC Inc.",
+               "count":3,
+               "sentiment":85
+            },
+            {
+               "title":"Plains Exploration & Production Company",
+               "count":2,
+               "sentiment":52
+            },
+            {
+               "title":"PetroChina Co. Ltd.",
+               "count":1,
+               "sentiment":43
+            },
+            {
+               "title":"Southern Copper Corp.",
+               "count":1,
+               "sentiment":40
+            },
+            {
+               "title":"Vale S.A.",
+               "count":1,
+               "sentiment":88
+            },
+            {
+               "title":"XTO Energy Inc.",
+               "count":1,
+               "sentiment":87
+            },
+            {
+               "title":"Peabody Energy Corp.",
+               "count":1,
+               "sentiment":60
+            },
+            {
+               "title":"Nalco Holding Co.",
+               "count":1,
+               "sentiment":43
+            },
+            {
+               "title":"Talisman Energy Inc.",
+               "count":1,
+               "sentiment":46
+            },
+            {
+               "title":"Agnico Eagle Mines Ltd.",
+               "count":1,
+               "sentiment":69
+            },
+            {
+               "title":"Qiao Xing Universal Resources, Inc.",
+               "count":3,
+               "sentiment":50
+            },
+            {
+               "title":"Calumet Specialty Products Partners LP",
+               "count":1,
+               "sentiment":75
+            },
+            {
+               "title":"Compania de Minas Buenaventura SA",
+               "count":1,
+               "sentiment":64
+            },
+            {
+               "title":"Sutor Technology Group Limited",
+               "count":2,
+               "sentiment":58
+            },
+            {
+               "title":"Lubrizol Corporation",
+               "count":2,
+               "sentiment":65
+            },
+            {
+               "title":"China Precision Steel, Inc.",
+               "count":3,
+               "sentiment":56
+            },
+            {
+               "title":"Lightbridge Corp.",
+               "count":1,
+               "sentiment":62
+            },
+            {
+               "title":"Murphy Oil Corporation",
+               "count":3,
+               "sentiment":62
+            },
+            {
+               "title":"BPZ Resources, Inc.",
+               "count":6,
+               "sentiment":66
+            },
+            {
+               "title":"Pacific Ethanol, Inc.",
+               "count":1,
+               "sentiment":39
+            },
+            {
+               "title":"Transocean Ltd.",
+               "count":2,
+               "sentiment":80
+            },
+            {
+               "title":"IAMGOLD Corp.",
+               "count":1,
+               "sentiment":93
+            },
+            {
+               "title":"Halliburton Company",
+               "count":1,
+               "sentiment":42
+            },
+            {
+               "title":"Terra Industries Inc.",
+               "count":1,
+               "sentiment":78
+            },
+            {
+               "title":"Coeur d`Alene Mines Corporation",
+               "count":1,
+               "sentiment":91
+            },
+            {
+               "title":"Weatherford International Ltd.",
+               "count":1,
+               "sentiment":84
+            },
+            {
+               "title":"Turquoise Hill Resources Ltd",
+               "count":1,
+               "sentiment":54
+            }
+         ]
+      },
+      {
+         "name":"Industrial Goods",
+         "children":[
+            {
+               "title":"General Electric Co.",
+               "count":23,
+               "sentiment":67
+            },
+            {
+               "title":"Allegheny Technologies Inc.",
+               "count":1,
+               "sentiment":43
+            },
+            {
+               "title":"OSI Systems, Inc.",
+               "count":5,
+               "sentiment":54
+            },
+            {
+               "title":"L-3 Communications Holdings Inc.",
+               "count":2,
+               "sentiment":72
+            },
+            {
+               "title":"Aixtron SE",
+               "count":5,
+               "sentiment":39
+            },
+            {
+               "title":"Headwaters Inc.",
+               "count":2,
+               "sentiment":34
+            },
+            {
+               "title":"UQM Technologies Inc.",
+               "count":2,
+               "sentiment":54
+            },
+            {
+               "title":"RINO International Corporation",
+               "count":47,
+               "sentiment":91
+            },
+            {
+               "title":"Smith & Wesson Holding Corporation",
+               "count":6,
+               "sentiment":41
+            },
+            {
+               "title":"Advanced Battery Technologies, Inc.",
+               "count":7,
+               "sentiment":94
+            },
+            {
+               "title":"Zoltek Companies Inc.",
+               "count":1,
+               "sentiment":91
+            },
+            {
+               "title":"General Cable Corp.",
+               "count":1,
+               "sentiment":95
+            },
+            {
+               "title":"Intellicheck Mobilisa, Inc.",
+               "count":2,
+               "sentiment":49
+            },
+            {
+               "title":"China Ritar Power Corp.",
+               "count":1,
+               "sentiment":89
+            },
+            {
+               "title":"Foster Wheeler AG",
+               "count":14,
+               "sentiment":39
+            },
+            {
+               "title":"Boeing Co.",
+               "count":9,
+               "sentiment":64
+            },
+            {
+               "title":"Honeywell International Inc.",
+               "count":2,
+               "sentiment":42
+            },
+            {
+               "title":"SmartHeat Inc.",
+               "count":14,
+               "sentiment":47
+            },
+            {
+               "title":"Northrop Grumman Corporation",
+               "count":2,
+               "sentiment":62
+            },
+            {
+               "title":"NCI Building Systems Inc.",
+               "count":1,
+               "sentiment":62
+            },
+            {
+               "title":"TransDigm Group Incorporated",
+               "count":1,
+               "sentiment":50
+            },
+            {
+               "title":"Cummins Inc.",
+               "count":6,
+               "sentiment":45
+            },
+            {
+               "title":"China BAK Battery, Inc.",
+               "count":11,
+               "sentiment":85
+            },
+            {
+               "title":"PulteGroup, Inc.",
+               "count":1,
+               "sentiment":38
+            },
+            {
+               "title":"Highpower International, Inc.",
+               "count":6,
+               "sentiment":84
+            },
+            {
+               "title":"China Infrastructure Investment Corp.",
+               "count":3,
+               "sentiment":67
+            },
+            {
+               "title":"Beazer Homes USA Inc.",
+               "count":2,
+               "sentiment":82
+            },
+            {
+               "title":"Harbin Electric, Inc.",
+               "count":2,
+               "sentiment":38
+            },
+            {
+               "title":"Belden, Inc.",
+               "count":1,
+               "sentiment":91
+            },
+            {
+               "title":"FLIR Systems, Inc.",
+               "count":1,
+               "sentiment":89
+            },
+            {
+               "title":"Lockheed Martin Corporation",
+               "count":1,
+               "sentiment":89
+            },
+            {
+               "title":"TASER International Inc.",
+               "count":2,
+               "sentiment":77
+            },
+            {
+               "title":"Fastenal Co.",
+               "count":2,
+               "sentiment":33
+            },
+            {
+               "title":"Calgon Carbon Corporation",
+               "count":3,
+               "sentiment":44
+            },
+            {
+               "title":"Duoyuan Global Water Inc.",
+               "count":1,
+               "sentiment":41
+            },
+            {
+               "title":"Flowserve Corp.",
+               "count":2,
+               "sentiment":91
+            },
+            {
+               "title":"EnergySolutions, Inc ",
+               "count":4,
+               "sentiment":79
+            },
+            {
+               "title":"Lennar Corp.",
+               "count":8,
+               "sentiment":89
+            },
+            {
+               "title":"Eaton Corporation",
+               "count":1,
+               "sentiment":52
+            },
+            {
+               "title":"Texas Industries Inc.",
+               "count":1,
+               "sentiment":92
+            },
+            {
+               "title":"Thomas & Betts Corp.",
+               "count":1,
+               "sentiment":51
+            },
+            {
+               "title":"Koninklijke Philips Electronics NV",
+               "count":2,
+               "sentiment":52
+            },
+            {
+               "title":"Tri-Tech Holding, Inc.",
+               "count":1,
+               "sentiment":69
+            },
+            {
+               "title":"Hovnanian Enterprises Inc.",
+               "count":1,
+               "sentiment":88
+            },
+            {
+               "title":"Ryland Group Inc.",
+               "count":2,
+               "sentiment":79
+            },
+            {
+               "title":"Toll Brothers Inc.",
+               "count":1,
+               "sentiment":62
+            },
+            {
+               "title":"Ameron International Corporation",
+               "count":3,
+               "sentiment":72
+            },
+            {
+               "title":"Mueller Water Products, Inc.",
+               "count":2,
+               "sentiment":33
+            },
+            {
+               "title":"Pall Corp.",
+               "count":1,
+               "sentiment":39
+            },
+            {
+               "title":"Terex Corp.",
+               "count":1,
+               "sentiment":34
+            },
+            {
+               "title":"The Babcock & Wilcox Company",
+               "count":1,
+               "sentiment":46
+            },
+            {
+               "title":"Lindsay Corporation",
+               "count":1,
+               "sentiment":73
+            },
+            {
+               "title":"Crane Co.",
+               "count":1,
+               "sentiment":86
+            },
+            {
+               "title":"China Yuchai International Limited",
+               "count":3,
+               "sentiment":79
+            },
+            {
+               "title":"Joy Global, Inc.",
+               "count":6,
+               "sentiment":65
+            },
+            {
+               "title":"Bucyrus International Inc.",
+               "count":2,
+               "sentiment":79
+            },
+            {
+               "title":"Caterpillar Inc.",
+               "count":2,
+               "sentiment":30
+            },
+            {
+               "title":"China Fire & Security Group, Inc.",
+               "count":1,
+               "sentiment":40
+            },
+            {
+               "title":"Worthington Industries, Inc.",
+               "count":1,
+               "sentiment":93
+            },
+            {
+               "title":"Manitowoc Co. Inc.",
+               "count":1,
+               "sentiment":38
+            }
+         ]
+      },
+      {
+         "name":"Conglomerates",
+         "children":[
+            {
+               "title":"3M Co.",
+               "count":1,
+               "sentiment":40
+            }
+         ]
+      }
+   ]
+}

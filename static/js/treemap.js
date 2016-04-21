@@ -16,7 +16,7 @@ function render_treemap() {
 	var treemap = d3.layout.treemap()
 	    .size([width, height])
 	    .sticky(true)
-	    .value(function(d) { return d.vol; });
+	    .value(function(d) { return d.count; });
 
 	var div = d3.select("#treemap").append("div")
 	    .style("position", "relative")
@@ -25,7 +25,7 @@ function render_treemap() {
 	    .style("left", margin.left)
 	    .style("top", margin.top);
 
-	d3.json("../static/data/treemap.json", function(error, root) {
+	d3.json("../static/data/treemap_y.json", function(error, root) {
 	  if (error) throw error;
 
 	  var node = div.datum(root).selectAll(".node")
@@ -33,8 +33,8 @@ function render_treemap() {
 	    .enter().append("div")
 	      .attr("class", "node")
 	      .call(position)
-	      .style("background", function(d) { return d.sent > 50 ? "#B9F6CA" : "#FF8A80"; })
-	      .text(function(d) { return d.children ? null : d.name; })
+	      .style("background", function(d) { return d.sentiment > 50 ? "#B9F6CA" : "#FF8A80"; })
+	      .text(function(d) { return d.children ? null : d.title; })
 	      .attr("align", "center");
 	     // .attr("vertical", "middle");
 	  
