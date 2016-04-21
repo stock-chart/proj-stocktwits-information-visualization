@@ -33,7 +33,7 @@ function render_treemap() {
 	    .enter().append("div")
 	      .attr("class", "node")
 	      .call(position)
-	      .style("background", function(d) { return d.sent > 50 ? "#76FF03" : "#F44336"; })
+	      .style("background", function(d) { return d.sent > 50 ? "#B9F6CA" : "#FF8A80"; })
 	      .text(function(d) { return d.children ? null : d.name; })
 	      .attr("align", "center");
 	     // .attr("vertical", "middle");

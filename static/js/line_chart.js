@@ -19,10 +19,10 @@ function render_line_chart() {
 
   // Define the axes
   var xAxis = d3.svg.axis().scale(x)
-      .orient("bottom").ticks(5);
+      .orient("bottom").ticks(3);
 
   var yAxis = d3.svg.axis().scale(y)
-      .orient("left").ticks(5);
+      .orient("left").ticks(3);
 
   // Define the line
   var valueline = d3.svg.line()

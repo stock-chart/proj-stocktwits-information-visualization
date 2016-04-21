@@ -17,13 +17,18 @@ function render_area_chart() {
 	var y = d3.scale.linear()
 	    .range([height, 0]);
 
-	var xAxis = d3.svg.axis()
-	    .scale(x)
-	    .orient("bottom");
+	// var xAxis = d3.svg.axis()
+	//     .scale(x)
+	//     .orient("bottom");
 
-	var yAxis = d3.svg.axis()
-	    .scale(y)
-	    .orient("left")
+	// var yAxis = d3.svg.axis()
+	//     .scale(y)
+	//     .orient("left")
+  var xAxis = d3.svg.axis().scale(x)
+      .orient("bottom").ticks(3);
+
+  var yAxis = d3.svg.axis().scale(y)
+      .orient("left").ticks(2);
 
 	var area = d3.svg.area()
 	    .x(function(d) { return x(d.date); })
@@ -66,7 +71,7 @@ function render_area_chart() {
 	      .attr("y", 6)
 	      .attr("dy", ".71em")
 	      .style("text-anchor", "end")
-	      .text("Idea Sentiment")
-	      .style({"font-size": 7, fill:"#000"});
+	      .text("Volume")
+	      .style({"font-size": 10, fill:"#000"});
 	});
 }
