@@ -9,7 +9,7 @@ function render_area_chart() {
 		width = 600 - margin.left - margin.right,
 	    height = 90 - margin.top - margin.bottom;
 
-	var parseDate = d3.time.format("%d-%b-%y").parse;
+	var parseDate = d3.time.format("%H:%M").parse;
 
 	var x = d3.time.scale()
 	    .range([0, width]);
@@ -28,7 +28,7 @@ function render_area_chart() {
       .orient("bottom").ticks(3);
 
   var yAxis = d3.svg.axis().scale(y)
-      .orient("left").ticks(2);
+      .orient("left").ticks(3);
 
 	var area = d3.svg.area()
 	    .x(function(d) { return x(d.date); })
