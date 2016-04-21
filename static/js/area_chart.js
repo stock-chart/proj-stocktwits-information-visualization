@@ -33,7 +33,7 @@ function render_area_chart() {
 	var area = d3.svg.area()
 	    .x(function(d) { return x(d.date); })
 	    .y0(height)
-	    .y1(function(d) { return y(d.sent); });
+	    .y1(function(d) { return y(d.count); });
 
 	var svg = d3.select("#area-chart")
 		.append("svg")
@@ -42,16 +42,16 @@ function render_area_chart() {
 	  .append("g")
 	    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-	d3.tsv("../static/data/data.tsv", function(error, data) {
+	d3.json("../static/data/line_area_chart.json", function(error, data) {
 	  if (error) throw error;
 
 	  data.forEach(function(d) {
 	    d.date = parseDate(d.date);
-	    d.sent = +d.sent;
+	    d.sent = +d.count;
 	  });
 
 	  x.domain(d3.extent(data, function(d) { return d.date; }));
-	  y.domain([0, d3.max(data, function(d) { return d.sent; })]);
+	  y.domain([0, d3.max(data, function(d) { return d.count; })]);
 
 	  svg.append("path")
 	      .datum(data)

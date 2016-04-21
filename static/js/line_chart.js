@@ -27,7 +27,7 @@ function render_line_chart() {
   // Define the line
   var valueline = d3.svg.line()
       .x(function(d) { return x(d.date); })
-      .y(function(d) { return y(d.sent); });
+      .y(function(d) { return y(d.sentiment); });
       
   // Adds the svg canvas
   var svg = d3.select("#line-chart")
@@ -39,15 +39,15 @@ function render_line_chart() {
                 "translate(" + margin_l.left + "," + margin_l.top + ")");
 
   // Get the data
-  d3.tsv("../static/data/data.tsv", function(error, data) {
+  d3.json("../static/data/line_area_chart.json", function(error, data) {
       data.forEach(function(d) {
           d.date = parseDate(d.date);
-          d.sent = +d.sent;
+          d.sentiment = +d.sentiment;
       });
 
       // Scale the range of the data
       x.domain(d3.extent(data, function(d) { return d.date; }));
-      y.domain([0, d3.max(data, function(d) { return d.sent; })]);
+      y.domain([0, d3.max(data, function(d) { return d.sentiment; })]);
 
       // Add the valueline path.
       svg.append("path")

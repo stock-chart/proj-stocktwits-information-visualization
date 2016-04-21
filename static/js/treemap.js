@@ -25,7 +25,7 @@ function render_treemap() {
 	    .style("left", margin.left)
 	    .style("top", margin.top);
 
-	d3.json("../static/data/treemap_y.json", function(error, root) {
+	d3.json("../static/data/treemap_new.json", function(error, root) {
 	  if (error) throw error;
 
 	  var node = div.datum(root).selectAll(".node")
@@ -34,7 +34,7 @@ function render_treemap() {
 	      .attr("class", "node")
 	      .call(position)
 	      .style("background", function(d) { return d.sentiment > 50 ? "#B9F6CA" : "#FF8A80"; })
-	      .text(function(d) { return d.children ? null : d.title; })
+	      .text(function(d) { return d.children ? null : d.symbol; })
 	      .attr("align", "center");
 	     // .attr("vertical", "middle");
 	  
