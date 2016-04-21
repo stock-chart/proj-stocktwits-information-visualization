@@ -19,16 +19,11 @@ function render_area_chart() {
 
 	var xAxis = d3.svg.axis()
 	    .scale(x)
-	    .orient("bottom")
-		.tickSize(-360)
-        .tickFormat(function (d) {
-            var prefix =d3.formatPrefix(d);
-            return prefix.scale(d) + prefix.symbol
-        });
+	    .orient("bottom");
 
 	var yAxis = d3.svg.axis()
 	    .scale(y)
-	    .orient("left");
+	    .orient("left")
 
 	var area = d3.svg.area()
 	    .x(function(d) { return x(d.date); })
