@@ -18,10 +18,7 @@ function render_stocklist() {
     })
 }
 
-
-
-
-
+// test return from backend 
 $("#searchbtn").click(function(){
 	$.getJSON($SCRIPT_ROOT + '/_add_numbers', {
         a: "1",
