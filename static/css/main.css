@@ -96,13 +96,16 @@
   fill: steelblue;
 }
 /***********************************************/
+
+/*********************keyword cloud start**************************/
 #keywordcloud {
 	height: 200px;
 	/*background-color: #EF9A9A;*/
 	border: 1px solid #555555;
 }
+/*********************keyword cloud end**************************/
 
-
+/*********************idea list start**************************/
 #idealist {
 	height: 350px;
 	overflow-y: scroll;
@@ -120,3 +123,19 @@
 	color: #CE93D8;
 }
 
+.sentiment {
+  float: right;
+  padding-left: 5px;
+  padding-right: 5px;
+  min-width: 40px;
+  color: white;
+}
+
+.bullidea {
+  background-color: red;
+}
+
+.bearidea {
+  background-color: green;
+}
+/*********************idea list end**************************/
