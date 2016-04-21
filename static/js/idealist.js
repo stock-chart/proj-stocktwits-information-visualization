@@ -1,6 +1,5 @@
+
 render_idealist();
-
-
 
 function render_idealist() {
     idealist = d3.select("#idealist");
