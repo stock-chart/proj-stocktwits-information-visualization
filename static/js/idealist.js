@@ -1,11 +1,14 @@
-idealist = d3.select("#idealist");
+render_idealist();
 
-d3.json("static/latest_50_messages.json", function(error, result) {
-    ideas = result;
-    render_idealist();
-})
+
 
 function render_idealist() {
+    idealist = d3.select("#idealist");
+
+    d3.json("static/latest_50_messages.json", function(error, result) {
+    ideas = result;
+    
+
     idealist_data = idealist.selectAll("div")
                             .data(ideas, function(d) {return d.body});
     
@@ -21,4 +24,5 @@ function render_idealist() {
                 	}
                 	
                 });
+    })
 }
