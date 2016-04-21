@@ -3,10 +3,15 @@
 
 import MySQLdb
 import json
+import random
+
+input_path = '/Users/YuandaLi/Programs/ST_Data_Parser'
+input_file_name = 'part_data_5K.json'
 
 def parse_json(cur):
-    json_obj = json.loads(open('part_data.json').read())
-    for message in json_obj:
+    cnt = 0
+    for line in open(input_path + '/' + input_file_name):
+        message = json.loads(line)
         # Parse message
         if 'symbols' in message:
             for symbol in message['symbols']:
@@ -25,7 +30,17 @@ def parse_json(cur):
             cur.execute("INSERT INTO user (user_id, username, name) VALUES (%d, '%s', '%s')" % (message['user']['id'], message['user']['username'], message['user']['name']))
         else:
             pass
-        print 'Message', message['id'], 'created.'
+
+        cnt += 1
+        print cnt, 'Message', message['id'], 'created.'
+
+def generate_pseudo_sentiment_value(cur):
+    cur.execute("SELECT symbol_id FROM symbol")
+    symbol_list = cur.fetchall()
+    for symbol in symbol_list:
+        symbol_id = symbol[0]
+        # print symbol_id
+        cur.execute("UPDATE symbol SET symbol.bull=%d WHERE symbol_id=%d" % (random.randint(30, 95), symbol_id))
 
 def create_database():
     try:
@@ -37,13 +52,14 @@ def create_database():
         cur.execute("DROP TABLE IF EXISTS message;")
         cur.execute("DROP TABLE IF EXISTS user;")
         cur.execute("DROP TABLE IF EXISTS symbol;")
-        cur.execute("CREATE TABLE IF NOT EXISTS message(id INT PRIMARY KEY AUTO_INCREMENT, message_id INT, body TEXT, created_at DATETIME, user_id INT, symbol_id INT, sentiment VARCHAR(10));")
+        cur.execute("CREATE TABLE IF NOT EXISTS message(id INT PRIMARY KEY AUTO_INCREMENT, message_id INT, body TEXT, created_at DATETIME, user_id INT, symbol_id INT, sentiment VARCHAR(10)) CHARACTER SET utf8 COLLATE utf8_bin;")
         cur.execute("CREATE TABLE IF NOT EXISTS user(id INT PRIMARY KEY AUTO_INCREMENT, user_id INT, username VARCHAR(50), name VARCHAR(50), classification VARCHAR(15));")
-        cur.execute("CREATE TABLE IF NOT EXISTS symbol(id INT PRIMARY KEY AUTO_INCREMENT, symbol_id INT, symbol VARCHAR(25), title VARCHAR(50), exchange VARCHAR(10), sector VARCHAR(50), industry VARCHAR(50), trending VARCHAR(10), count INT DEFAULT 1);")
+        cur.execute("CREATE TABLE IF NOT EXISTS symbol(id INT PRIMARY KEY AUTO_INCREMENT, symbol_id INT, symbol VARCHAR(25), title VARCHAR(50), exchange VARCHAR(10), sector VARCHAR(50), industry VARCHAR(50), trending VARCHAR(10), count INT DEFAULT 1, bull INT DEFAULT 0, bear INT DEFAULT 0);")
         print 'Databases created.'
 
         # Insert entries
         parse_json(cur)
+        generate_pseudo_sentiment_value(cur)
 
         cur.close()
         conn.commit()
