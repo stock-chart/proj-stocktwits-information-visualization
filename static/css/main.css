@@ -28,12 +28,74 @@
 	height: 550px;
 	overflow-y: scroll;
 }
-
+/***********************************************/
 #treemap {
-	height: 200px;
-	background-color: #F48FB1;
+	height: 300px;
+/*	background-color: #F48FB1;
+*/}
+
+#treemap body_set {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: auto;
+  position: relative;
+  width: 960px;
 }
 
+#treemap form_set {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+#treemap .node {
+  border: solid 1px black;
+  font: 10px sans-serif;
+  line-height: 12px;
+  overflow: hidden;
+  position: absolute;
+  text-indent: 2px;
+}
+
+#line-chart {
+	height: 200px;
+	/*background-color: #00FFFF;*/
+}
+#line-chart path { 
+    stroke: steelblue;
+    stroke-width: 2;
+    fill: none;
+}
+
+#line-chart .axis path,
+#line-chart .axis line {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+
+#area-chart {
+	height: 50px;
+	/*background-color: #FFFF00;*/
+}
+#area-chart path { 
+    stroke: steelblue;
+    stroke-width: 2;
+    fill: none;
+}
+
+#area-chart .axis path,
+#area-chart .axis line {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+
+#area-chart .area {
+  fill: steelblue;
+}
+/***********************************************/
 #keywordcloud {
 	height: 200px;
 	/*background-color: #EF9A9A;*/
