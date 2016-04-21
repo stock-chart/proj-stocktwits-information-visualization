@@ -4,7 +4,7 @@ render_idealist();
 function render_idealist() {
     idealist = d3.select("#idealist");
 
-    d3.json("static/latest_50_messages.json", function(error, result) {
+    d3.json("static/data/latest_50_messages.json", function(error, result) {
     ideas = result;
     
 

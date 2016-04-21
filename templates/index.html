@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         
         <!-- Site title -->
-        <title>SIP</title>
+        <title>ST IV Pro</title>
 
         <!-- Styles -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">        
@@ -23,13 +23,14 @@
         </div>
       </nav>
 
-      <div class="row">
-        <!-- left: stock list -->
-        <div class="col-md-3 stocklist">
+      <div class="row threeparts">
+        <!-- leftpart: stock list -->
+        <div class="col-md-2 leftpart">
           <!-- filter and search -->
-          <div class="row">
+          <div class="row stocklisttool">
             <div class="col-md-6">
               <select class="form-control">
+                <option>All</option>
                 <option>Tech</option>
                 <option>Health</option>
               </select>              
@@ -38,7 +39,6 @@
               <div class="input-group">
                 <input type="text" class="form-control" placeholder="Search...">
                 <span class="input-group-btn">
-                  <button class="btn btn-default" type="button" id="searchbtn">Go!</button>
                 </span>
               </div>
             </div>            
@@ -49,22 +49,26 @@
           </div>
         </div>
 
-        <!-- middle: treemap, line chart and area chart-->
-        <div class="col-md-6">
+        <!-- middlepart: treemap, line chart and area chart-->
+        <div class="col-md-6 middlepart">
+          <span class="visname">Stock Treemap</span>
           <div id="treemap">
             
           </div>
+          <span class="visname">Sentiment Chart</span>
           <div id="line-chart">
             
           </div>
+          <span class="visname">Volume Chart</span>
           <div id="area-chart">
             
           </div>
         </div>
           
 
-        <!-- right: word cloud and idea list -->
-        <div class="col-md-3">
+        <!-- rightpart: word cloud and idea list -->
+        <div class="col-md-4 rightpart">
+          <span class="visname">Keyword Cloud</span>
           <div id="keywordcloud">
             
           </div>
@@ -86,9 +90,9 @@
         <script type="text/javascript" src="static/js/line_chart.js"></script>
         <script type="text/javascript" src="static/js/area_chart.js"></script>
         <script type="text/javascript" src="static/js/treemap.js"></script>
-<script type="text/javascript">
-  var $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
-</script>        
+        <script type="text/javascript">
+          var $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+        </script>        
     </body>
 
 </html>

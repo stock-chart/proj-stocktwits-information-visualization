@@ -4,7 +4,7 @@ render_stocklist();
 function render_stocklist() {
     stocklist = d3.select("#stocklist");
 
-    d3.json("static/top_50_list_new.json", function(error, result) {
+    d3.json("static/data/top_50_list_new.json", function(error, result) {
     stocks = result["top_list"];
     
 
@@ -18,12 +18,3 @@ function render_stocklist() {
     })
 }
 
-// test return from backend 
-$("#searchbtn").click(function(){
-	$.getJSON($SCRIPT_ROOT + '/_add_numbers', {
-        a: "1",
-        b: "2"		
-	}, function(data) {
-		alert(data.result);
-	});	
-});

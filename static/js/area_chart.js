@@ -6,7 +6,7 @@ function render_area_chart() {
 	area_data = d3.select("#area-chart");
 
 	var margin = {top: 0, right: 20, bottom: 30, left: 25},
-		width = 680 - margin.left - margin.right,
+		width = 600 - margin.left - margin.right,
 	    height = 90 - margin.top - margin.bottom;
 
 	var parseDate = d3.time.format("%d-%b-%y").parse;
@@ -65,13 +65,6 @@ function render_area_chart() {
 
 	  svg.append("g")
 	      .attr("class", "y axis")
-	      .call(yAxis)
-	    .append("text")
-	      .attr("transform", "rotate(-90)")
-	      .attr("y", 6)
-	      .attr("dy", ".71em")
-	      .style("text-anchor", "end")
-	      .text("Volume")
-	      .style({"font-size": 10, fill:"#000"});
+	      .call(yAxis);
 	});
 }

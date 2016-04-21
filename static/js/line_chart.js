@@ -6,8 +6,8 @@ function render_line_chart() {
   line_data = d3.select("#line-chart");
 
   // Set the dimensions of the canvas / graph
-  var margin_l = {top: 5, right: 20, bottom: 30, left: 25},
-      width_l = 680 - margin_l.left - margin_l.right,
+  var margin_l = {top: 0, right: 20, bottom: 30, left: 25},
+      width_l = 600 - margin_l.left - margin_l.right,
       height_l = 200 - margin_l.top - margin_l.bottom;
 
   // Parse the date  time

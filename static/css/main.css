@@ -16,14 +16,25 @@
 	margin-right: 0px;
 }
 
+.threeparts {
+
+}
+
+.visname {
+  color: #73ACE5;
+}
+
+
 
 /* ==========================================================================
    1. nav
 *  ========================================================================== */
 
 .navbar {
-	background: #EEEEEE;
+	background: #F5F5F5;
+  margin-bottom: 0px;
 }
+
 
 .navbar-brand span {
   color: #73ACE5;
@@ -31,29 +42,37 @@
 
 
 /* ==========================================================================
-   2. left: stocklist
+   2. leftpart: stocklist
 *  ========================================================================== */
 
-.stocklist {
-
+.stocklisttool div {
+  padding-right: 0px;
 }
 
 #stocklist {
-	height: 550px;
+	height: 600px;
 	overflow-y: scroll;
+  border: 1px solid #ddd;
+}
+
+#stocklist .list-group-item {
+  max-height: 3.6em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0px 7px;
 }
 
 
 /* ==========================================================================
-   3. middle: treemap, line + area chart
+   3. middlepart: treemap, line + area chart
 *  ========================================================================== */
 
 #treemap {
 	height: 300px;
-/*	background-color: #F48FB1;
-*/}
+}
 
-#treemap body_set {
+/*#treemap body_set {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: auto;
   position: relative;
@@ -64,10 +83,10 @@
   position: absolute;
   right: 10px;
   top: 10px;
-}
+}*/
 
 #treemap .node {
-  border: solid 1px black;
+  border: solid 1px white;
   font: 10px sans-serif;
   line-height: 12px;
   overflow: hidden;
@@ -79,8 +98,9 @@
 	height: 200px;
 	/*background-color: #00FFFF;*/
 }
+
 #line-chart path { 
-    stroke: steelblue;
+    stroke: #73ACE5;
     stroke-width: 2;
     fill: none;
 }
@@ -88,7 +108,7 @@
 #line-chart .axis path,
 #line-chart .axis line {
     fill: none;
-    stroke: grey;
+    stroke: #BDBDBD;
     stroke-width: 1;
     shape-rendering: crispEdges;
 }
@@ -97,8 +117,9 @@
 	height: 50px;
 	/*background-color: #FFFF00;*/
 }
+
 #area-chart path { 
-    stroke: steelblue;
+    stroke: #73ACE5;
     stroke-width: 2;
     fill: none;
 }
@@ -106,30 +127,30 @@
 #area-chart .axis path,
 #area-chart .axis line {
     fill: none;
-    stroke: grey;
+    stroke: #BDBDBD;
     stroke-width: 1;
     shape-rendering: crispEdges;
 }
 
 #area-chart .area {
-  fill: steelblue;
+  fill: #73ACE5;
 }
 
 
 /* ==========================================================================
-   4. right: keyword cloud, idealist
+   4. rightpart: keyword cloud, idealist
 *  ========================================================================== */
 
 #keywordcloud {
 	height: 200px;
-	/*background-color: #EF9A9A;*/
-	border: 1px solid #555555;
+	border: 1px solid #ddd;
 }
 
 
 #idealist {
-	height: 350px;
+	height: 400px;
 	overflow-y: scroll;
+  border: 1px solid #ddd;
 }
 
 #idealist .list-group-item {
@@ -138,10 +159,11 @@
 	text-overflow: ellipsis;
 	white-space: nowrap;
 	padding: 0px 7px;
+  color: #9E9E9E;
 }
 
 .username {
-	color: #CE93D8;
+	color: #212121;
 }
 
 .sentiment {
@@ -153,10 +175,10 @@
 }
 
 .bullidea {
-  background-color: red;
+  background-color: #59BD4F;
 }
 
 .bearidea {
-  background-color: green;
+  background-color: #BD4F4F;
 }
 
