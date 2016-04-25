@@ -2,28 +2,20 @@
    0. global
 *  ========================================================================== */
 
-/*::-webkit-scrollbar {
-    -webkit-appearance: none;
-    width: 7px;
-}
-::-webkit-scrollbar-thumb {
-    border-radius: 4px;
-    background-color: rgba(0,0,0,.5);
-    -webkit-box-shadow: 0 0 1px rgba(255,255,255,.5);
-}*/
 
-.row {
-	margin-right: 0px;
-}
 
-.threeparts {
-
+.logo {
+  height: 100%;
+  display: inline !important;
 }
 
 .visname {
   color: #73ACE5;
 }
 
+.row {
+  margin-right: 0px;
+}
 
 
 /* ==========================================================================
@@ -63,6 +55,33 @@
   padding: 0px 7px;
 }
 
+.smallbar {
+  display: inline-block;
+  float: right;
+  min-width: 73px;
+}
+
+.smallbarcontainer {
+  display: inline-block; 
+  width: 46px; 
+  height: 8px; 
+  border-radius: 3px; 
+  position: relative; 
+  border: 1px solid rgb(115, 172, 229);  
+}
+
+.smallbarbar {
+  display: inline-block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+  background-color: rgb(115, 172, 229);  
+}
+.smallbarnum {
+  font-size: 10px;
+}
+
 
 /* ==========================================================================
    3. middlepart: treemap, line + area chart
@@ -70,6 +89,10 @@
 
 #treemap {
 	height: 300px;
+}
+
+.opacityzero {
+  opacity: 0;
 }
 
 /*#treemap body_set {
@@ -100,7 +123,7 @@
 }
 
 #line-chart path { 
-    stroke: #73ACE5;
+    stroke: #9C27B0;
     stroke-width: 2;
     fill: none;
 }

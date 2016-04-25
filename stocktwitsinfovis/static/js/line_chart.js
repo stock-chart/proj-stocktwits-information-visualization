@@ -39,7 +39,7 @@ function render_line_chart() {
                 "translate(" + margin_l.left + "," + margin_l.top + ")");
 
   // Get the data
-  d3.json("../static/data/line_area_chart.json", function(error, data) {
+  d3.json("/static/data/line_area_chart.json", function(error, data) {
       data.forEach(function(d) {
           d.date = parseDate(d.date);
           d.sentiment = +d.sentiment;
